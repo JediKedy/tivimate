@@ -1,0 +1,137 @@
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/YhKQJHE.png", TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/Blekh8p.png", ATV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/Mkq6bWf.png", A2 TV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/homSiDa.png", NOW TV
+http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/le0hb7q.png", Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/xA7A4oL.png", Show TV
+http://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/ULv7b06.png", Kanal D
+http://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/zYziGXN.png", TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://th.bing.com/th/id/R.bc5fc6540b6eff9be1391e0e1beb5f7c?rik=XKPk2MS8oNlLzA&riu=http%3a%2f%2ffm.cnbc.com%2fapplications%2fcnbc.com%2fstaticcontent%2fimg%2fcnbc_logo.gif&ehk=AnVOPaal%2b9MLnYz9lGgxWE5rtLw%2bHhwpxw4KtHlpczM%3d&risl=&pid=ImgRaw&r=0", CNBC-e
+https://ythls.armelin.one/channel/UCaO-M1dXacMwtyg0Pvovk4w.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://m.beyaztv.com.tr/images/logo.png", Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/pxpLpnH.png", KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://s.teve2.com.tr/assets/img/teve2logo.png?v=1", Teve 2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="http://showmax.com.tr/images/core/showmax_logo.png?v=15", Show MAX
+http://stream.tvcdn.net/eglence/show-max.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/eXKohZ5.png", 360 TV
+http://canli.haber365.com.tr/tr/360tv/index.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/eXKohZ5.png", 360 TV YEDEK
+http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114", TV4
+http://tv4.blutv.com/blutv_tv4/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114", TV4 YEDEK
+http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/WXj8YcR.png", DMAX
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/WXj8YcR.png", DMAX YEDEK
+http://canli.haber365.com.tr/tr/dmax/index.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://img-tlctv.mncdn.com/logo.png?v=1.1", TLC
+https://dogus-live.daioncdn.net/tlc/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://img-tlctv.mncdn.com/logo.png?v=1.1", TLC YEDEK
+http://canli.haber365.com.tr/tr/tlc/index.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/KLC5eOL.png", TRT Belgesel
+http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/INCUbh5.png", TRT Çocuk
+http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://play-lh.googleusercontent.com/ge3dV89ND13fe3CK4wmJQc8rx3Eh_TiWTJ8ykaTJSrlFu4cUDFFjZn5kwX6yXkjweR4", TRT World
+http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://eurod.kanald.com.tr/assets/img/logo.v4.png", Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7avrupa/images/kanal7avrupa_logo.png", KANAL 7 Avrupa
+http://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://www.showturk.com.tr/images/core/showturk-v-1.svg?v=12", Show Türk
+http://showturk.blutv.com/blutv_showturk2/live.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://www.trtturk.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trtturk_logo.png", TRT Türk
+http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/R6nT0an.png", TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+
+
+
+
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDQYIBC/1607-aztv.png", AZTV
+https://node1-az-baku-delta.streamy.group/stream/dc3b2edpjq8ij5vt9kj3thty7f67bmw7ejsc47y8zrhrtyytsmxg62kxv2dwxd6gsx968mivizmbr89n7fs7c3rhdm5sspdbgdvjz53hv3qjjxawtdgr35vdedrgn2ijkqc7tp8brem3mz2ib2katwu7ga6f9tywqjdmnrpmqkns====.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDGBEIBC/2380-anewz-hd.png", Anewz HD
+https://node2-az-baku-delta.streamy.group/stream/49enfp2ss5mg9n5k8kwu66b8vjb7w7i4zbxew2zqjcsc23xke9zytwm8a4ustqwrbgjceskq3psfdxnxtvyff9z59buzqt2txa5569q492tf4vqrxfb24bwkgji7geihn7jpjca7w933knusc2nh793bm5ypsa5srpqkfcv9f9bgfhx3p8mr9qvv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDMQ2IBC/1753-azad-azerbaycan.png", Azad Azərbaycan HD
+https://node2-az-baku-delta.streamy.group/stream/4heg8pjjc9nfewqkexjekr3isrnz4fjgf53qa87g95nwuqy6k32wrqmn5nb9qg6ksn9s97dn73n6e8ypxnxr6d6t2s8k45zfbepb78znccmnrrkpxjusbczrgneud2e4djwimynpst4is2hxqz7bz5nmtgq76hsfac38u4m8knthmb87ct9qq67i.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCABCIBC/2176-atv-cinema-hd.png", ATV Cinema
+https://node2-az-baku-delta.streamy.group/stream/qhdjayuk83e9mqi5w5zrxykn9qzrzfuyrjfx74bgxmivrncgg2mxpprersdhkd3zhii53s2wybn6rdthngwrkum7xdugbi9smtzxer58dk552fgbg5evch2bcaa5jf8jr2w57iz2vyf7jwmnn8n446pu27xgsjjbm6u5znnc8s8uavgun6spu7a=.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC3BCIBC/2230-atv-vivace.png", ATV Vivace
+https://node2-az-baku-delta.streamy.group/stream/2k4j9bieypwj9386z7ywymqesivdxy4x8px9qexf7pb9peia6qavxhbfzcz5mxy5hu6m8v7bqvbe654w46jgs4etz2hzjcxd3yq4y4nx8gszadbhmi3jy33puy8ysqauy6fgsvqdjjyd25gpn54p3vgg5aapjxidqw4ymfirphcc8rfe2vmdzh2=.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDGQYIBC/1613-arb-tv.png", ARB TV HD
+https://node1-az-baku-delta.streamy.group/stream/ik5592vkd5v29dveuccupnb6rr4xx9w2difm4nrrzmzbhaqi97yfpkda55ndby5rztepk3gmxfxym68rcwt2iz7n9s9yvm2r8n9psqzjz24cunbhevgbqz9rwnsy6zxjdkm6dvfqwhcs5txi6btvui2d8apw9acba8ehddxsf6s586md7vvnau9b.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHAYIBC/1614-arb-24-hd.png", ARB 24 HD
+https://node2-az-baku-delta.streamy.group/stream/7reavq66k292m6dcuwk9t5mzfaguuheurcinjdr6ku5mvfsu2fcuvkuhqub8qzng8t9umbskv9s2esguajffqdy4uhqxwxmuqdm54fqj6yza3yyysnnneyv6hk6ch2utkagxg2rpeyvmsb9qyj355sjjscvspjqj2pfvnxj49bdfwuqtftstfx2=.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHQYIBC/1615-arb-guenes.png", ARB Gunes HD
+https://node1-az-baku-delta.streamy.group/stream/32tserk4uxkf48rwn32wjdmc83vi4867fp8iuhx67pdjnikdt8i724mcqakpwdqstnhu797rfdprvafrixrwn3nz9cqikcpkkd3gac32e67ers7nvz78bbifg4sv2g5j3bde3855g4wsfktrqq4pgxtfmcpdtbbp9riakggpmjjwy===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLQYIBC/1623-agro-tv-hd.png", AGRO TV HD
+https://node2-az-baku-delta.streamy.group/stream/jgq2ak8nsr3er9a8e5hqju573qfs54p2esm6py9udu42isug9uivjgqmcf43zx7zz92eu25vi69hnrrm2xbe8ysek7n2emy7hr9qdsa98zf3dqjycgxqcpzxspm6kjqch7k4vrpqyden4nq9zvpy2hfniqfjuwzt7w2zmg6i94h8wws=.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLAYIBC/1622-baku-tv-hd.png", Baku TV HD
+https://node1-az-baku-delta.streamy.group/stream/svkugenztk7tfdf5d7atgyszhn5jq2rqjabf2sj86isg6nv42y2dks3d2wi4zwpixer4zagqsbnpa3rtvkwp9b8nvxyd8mcz8tmsctiuj7tfigz54kj2tsujnj76q8rzdkrcuh5te4sdtwgrnvgpqbjg2wy5iy22v6j2hz6kik4s====.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDJQYIBC/1619-cbc-azerbaijan.png", CBC Azerbaijan HD
+https://node2-az-baku-delta.streamy.group/stream/fev4qmpxcgsmdb7377j84tzyjvb9expebf9afcvq4afqcb4yd7hbfcba6yrgdbsm775da6sunaezvrg7vk5kwi6g9cnw5cxiysatrcybmpgpuqjr92xmudydspate86az4gytvx77veziqij5m5a75c4v8wqwcagjicg6zbiggxh4===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDAYIBC/1606-cbc-sport-hd.png", CBC Sport HD
+https://node2-az-baku-delta.streamy.group/stream/m2ntbbd4cmedh666r4mvrmmwer49cue7cvjq37xjataj7vgy9qafqqp2zpfku6qja5v5cjguqcitysy83pi3rg9zfzraggszeeatci3tddgbm28ug6ejnzuqs9zidg7xqs7e8add65aeejywgmtarv2nndr3e57reppqtkz3yuvuiwh7ivteu4i=.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDMA2IBC/1752-duenya-tv.png", Dunya TV
+https://node1-az-baku-delta.streamy.group/stream/3f7hzq99c2wqbizhzgdfn2nk7etchy6q79762fkugqfskk2mjue57w9ee5udyj9qyzzau2r35gyzbwa2xxgebxwgupdyuqzj8webzirctw3ibhs2q9j58mebek7qpdemhd8jwx3w2asr486rrv9qjpayhw4pqazyu4sftjxa4hxmg67h.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDFQYIBC/1611-xezer-tv.png", Xezer TV HD
+https://node2-az-baku-delta.streamy.group/stream/4am9x6jyfb5jgrka69sf5aw3cfyn4ma7n2phqxjbn637zvufwq9mvb68bspt2unz9scc7pyffcjqscp55wi4gscjjqmkirbyempxtdm4t9mnqqytywb4v5s6wzb89a4jrprge4qspjxyi5ne9yzpwxf3wx9nm9nw9vfn57fmfjtkc===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDEQYIBC/1609-idman-tv.png", Idman TV HD
+https://node2-az-baku-delta.streamy.group/stream/jisfneqxf8hk4vp9s8izd2zw9mybxh3yd5utfbwskkujdjtannfju934ffpx9xygvh5vivajdfzz3dsga4x2q8nncc4kkchg96nfu3kyhrwtfc4be84wbtt9izkq5ujtyyzm4xhhv9qjs77x849s7hgdgqi68ydt8f6gv68etvgh2===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDFAYIBC/1610-ictimai-tv.png", Ictimai TV HD
+https://node2-az-baku-delta.streamy.group/stream/4qhupgrxj4kkiyh6dduqucn53uqskqk6hsb2au652ihj9ttsq2kzjv9ww35r9rmawaais7t4hvz2bczzx586diftr6hg5uv23fuzuevyynkn8j5xa3vv3phpuvbz22ws3jkn36b5xnzxk3g3faif9ggks8ny9bsn6p4rm5eps4j38===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDIQYIBC/1617-kanal-s-hd.png", Kanal S HD
+https://node2-az-baku-delta.streamy.group/stream/dz7cgk3vsk2t93iu3s5qzbhu6nx9zn8jkpiag2ajan3ab4bcgq5zufn8a2jk56gjvyvzs7vgr4j9uqthedhvrkidf5fvtpay7hcueunx84bdst6nms2zgdcds9rmxin23u9gfza8vcgzjv6tur5yhqczfxqka3wkctimi6td7rn8a===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDWBCIBC/2284-kepez-tv.png", Kepez TV
+https://node2-az-baku-delta.streamy.group/stream/3bm5vphbfhj3gaxyd7v9amtecbn5jnm3s8cwn4u26xdv9dqjwdmetnepjc62t4trsgrptww3jbf8m87r9b6iaq7k99vfy45ei75ze3cai8tkxx8np8gjf4tpvxkv352nr26bbrs9knzw7raa58r7ynqbebsv2sf5ws58yyidjpca7bi=.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCLQ2IBC/1687-mcj-tv-shop.png", MCJ TV Shop
+https://node1-az-baku-delta.streamy.group/stream/wnvmvhkr7mjut6vbwshz9pbcp4bhia7y5cesfsjrcrznycqe77a56dejkp54w6as2n2awer9ppv98t7si3nznuqeuiwvgntfwaxgmg6i5wub3is69nfg6rbz3y3esg8u69yzv7sgxwjjw9x3gx4jvpxdftk672mhcpg2bdsrawfqdf2=.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDEAYIBC/1608-medeniyyet-tv.png", Medeniyyet TV HD
+https://node1-az-baku-delta.streamy.group/stream/kj9exanhcp373crvak3ahyiraabmzav4ay47kxzpn99vcqpbfc8b6vnb9u6mnc2gdcvtpden4b4hnrspx3k9knpxe6fja9f9ac5a3zt56v33r9dcjrv2agegreqvjebkjimwmxjrvmxewbmydsr6c5z5gfpqtpczmipwxgich28be===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDKQYIBC/1621-mtv-azerbaycan.png", MTV Azerbaycan HD
+https://node1-az-baku-delta.streamy.group/stream/jpajkz6inx8bi7246qfzebwg96yr49hmdbdcu77f9w5898g3t49mnayqk47wdcpbh5w6r9m9dr3i2a4ywcthgdfhpjpxxky97g2js4derggcvzbwi8x9rkqpcq7gfzmj3vzpzxhscrq2y7jfcnnenz3vg7etd65hkggub98g88is====.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDJAYIBC/1618-real-tv.png", Real TV HD
+https://node2-az-baku-delta.streamy.group/stream/jcs4uzx5ajwsx3fh5gmwtjxffkqt7249yu8ubneuus2eeskswhynqpqj2495f3sifg8mb7u8wnc5v64rt7g2ezvzq8wkbsiy3gatmtbz6wgrpn8msugk8nhskaaqwqkkvak83vkv9sgsazv2666gex6jrg8v4m7zfhxquh7pgbr66===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLQ2IBC/1751-sh-tv-hd.png", SH TV HD
+https://node1-az-baku-delta.streamy.group/stream/u5zyaip7zuzpxuxwnba4xu4zktcnvqbbf5j226k59cynwjvb5yr7a4wsva7ezw5tyd7cjunhnbp3gqssqi32zut45zvapjnkja9w8qiht8jq23z722sk2xmp93ezhgpd87ns8rurdfjktaynefwchr6axxubfmbwhtbsqb2yvx42u===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDIAYIBC/1616-space-tv.png", Space TV HD
+https://node1-az-baku-delta.streamy.group/stream/k5637vaqp2vsy6i6jm2pvtwjgsx85ba8dm6iypfkd7vegrhpetbwyk5p6r69idnsikvjmfwem96d8unfshnjbrd3tgz74gi9bk6tvyfavbfjcrkayr4si2sa9man4irbzgvnyat5ape6p76whjdi5dcbsixiacp7fhc2pchqdnms====.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDKAYIBC/1620-tmb-tv-azerbaijan-hd.png", TMB TV Azerbaijan HD
+https://node2-az-baku-delta.streamy.group/stream/kqgyu9r4ywviegr3hst5mk3mwrtd522gmqhqpgnyumipgbd4nwky8yafbqzy7wh57264sivvu6ei97z692xc9er4bnck3ayw9uyudym6feiamtrt48nzud74qb6n4cx3xj8u82fiyae7xascjnfrkihgfq9tjb36djqqnmihfwrii===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCWRCIBC/2221-vip-tv-hd.png", VIP HD
+https://node2-az-baku-delta.streamy.group/stream/2etgpc4uccaridaznpgp6evr6h9icqfsnvyv4mpzj534bigt4um6dtq3zvkpiizgu75uqfmiysd2hpdfnmvgdidjgziu26yrw3uz33jnsfwkduwc3whcebht3v5br2d94anit97ebra3b7zdk5vmf59txvz5gxrpj3pxzids4np2s===.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="", 
+
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="", 
+
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="", 
+
+
+
+
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/ISZAyH9.png", ATV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/cTSe8mH.png", ICTIMAI TV
+https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/u0IQWW6.png", BAKU TV
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/WscFXQm.png", IDMAN TV
+https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/Axx8WEG.png", MEDENIYYET TV
+https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/8njI5KQ.png", CBC TV
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1852085117.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/VOBtiCJ.png", CBC SPORT
+https://s31795.cdn.ngenix.net/s31795-media-origin/lvs/cbcsport/tracks-v1a1/mono.m3u8
