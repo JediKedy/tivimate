@@ -112,26 +112,3 @@ https://node1-az-baku-delta.streamy.group/stream/k5637vaqp2vsy6i6jm2pvtwjgsx85ba
 https://node2-az-baku-delta.streamy.group/stream/kqgyu9r4ywviegr3hst5mk3mwrtd522gmqhqpgnyumipgbd4nwky8yafbqzy7wh57264sivvu6ei97z692xc9er4bnck3ayw9uyudym6feiamtrt48nzud74qb6n4cx3xj8u82fiyae7xascjnfrkihgfq9tjb36djqqnmihfwrii===.m3u8
 #EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCWRCIBC/2221-vip-tv-hd.png", VIP HD
 https://node2-az-baku-delta.streamy.group/stream/2etgpc4uccaridaznpgp6evr6h9icqfsnvyv4mpzj534bigt4um6dtq3zvkpiizgu75uqfmiysd2hpdfnmvgdidjgziu26yrw3uz33jnsfwkduwc3whcebht3v5br2d94anit97ebra3b7zdk5vmf59txvz5gxrpj3pxzids4np2s===.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="", 
-
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="", 
-
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="", 
-
-
-
-
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/ISZAyH9.png", ATV
-https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/cTSe8mH.png", ICTIMAI TV
-https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/u0IQWW6.png", BAKU TV
-https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/WscFXQm.png", IDMAN TV
-https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/Axx8WEG.png", MEDENIYYET TV
-https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/8njI5KQ.png", CBC TV
-http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1852085117.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://i.imgur.com/VOBtiCJ.png", CBC SPORT
-https://s31795.cdn.ngenix.net/s31795-media-origin/lvs/cbcsport/tracks-v1a1/mono.m3u8
