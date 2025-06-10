@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz
 #EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDGQYIBC/1613-arb-tv.png", ARB TV
-https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arb.m3u8
+http://flussonic.izone.az/arb/index.m3u8
 #EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHAYIBC/1614-arb-24-hd.png", ARB24
 https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arb24.m3u8
 #EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHQYIBC/1615-arb-guenes.png", ARB Gunes
