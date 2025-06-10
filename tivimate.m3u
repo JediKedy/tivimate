@@ -558,10 +558,6 @@ http://flussonic.izone.az:80/viasatexplorer/index.m3u8
 
 http://flussonic.izone.az:80/boets/index.m3u8
 
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", HabarTurk
-
-http://flussonic.izone.az:80/haberturk/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", TİJİ
 
 http://flussonic.izone.az:80/tiji/index.m3u8
@@ -597,10 +593,6 @@ http://flussonic.izone.az:80/russkiyroman/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="188", Sony TV
 
 http://flussonic.izone.az:80/sonytv/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="1059", TRT Çocuk
-
-http://flussonic.izone.az:80/trtcocuk/index.m3u8
 
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="186", Мультимания
 
