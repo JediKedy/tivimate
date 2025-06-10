@@ -1,4 +1,39 @@
 #EXTM3U url-tvg=https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDGQYIBC/1613-arb-tv.png", ARB TV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arb.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHAYIBC/1614-arb-24-hd.png", ARB 24 HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arb24.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHQYIBC/1615-arb-guenes.png", ARB Gunes HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arbgunes.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDMQ2IBC/1753-azad-azerbaycan.png", Azad Azərbaycan HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/azadazerbaycan.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDQYIBC/1607-aztv.png", AzTV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/aztv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLAYIBC/1622-baku-tv-hd.png", Baku TV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/bakutv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDAYIBC/1606-cbc-sport-hd.png", CBC Sport HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/cbcsport.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDJQYIBC/1619-cbc-azerbaijan.png", CBC Azerbaijan HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/cbctv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDMA2IBC/1752-duenya-tv.png", Dunya TV
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/dunyatv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDFAYIBC/1610-ictimai-tv.png", Ictimai TV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/ictimaitv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDEQYIBC/1609-idman-tv.png", Idman TV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/idmantv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDEAYIBC/1608-medeniyyet-tv.png", Medeniyyet TV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/medeniyyettv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDKQYIBC/1621-mtv-azerbaycan.png", MTV Azerbaycan HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/muztv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDJAYIBC/1618-real-tv.png", Real TV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/realtv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLQ2IBC/1751-sh-tv-hd.png", Sehiyye TV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/sehiyyetv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDIAYIBC/1616-space-tv.png", Space TV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/spacetv.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDFQYIBC/1611-xezer-tv.png", Xezer TV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/xezertv.m3u8
+
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCBRCIBC/2179-trt-1-hd.png", TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/Blekh8p.png", ATV
@@ -14,7 +49,7 @@ http://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BD5AYIBC/1658-kanal-d-hd.png", Kanal D
 http://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/zYziGXN.png", TV8
-https://node1-az-baku-delta.streamy.group/stream/ugnx9qmu85ricaijhev7mymc5qpwgcf826br9wuy4ii5scy3vz3mg4m5k5vupymu6yktsiw7aeig8n2wwdeyxc4aj7fp45cxvipb3pgahmugq8fpa5jvnh8fr6pqai5j3t6germkw3yenk3rtt6twq3r6sdyst4dwycfabdg69wis===.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCDRCIBC/2183-beyaz-hd.png", Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BD6AYIBC/1660-kanal-7-avrupa-hd.png", KANAL 7
@@ -22,7 +57,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDCRCIBC/2245-teve2-hd.png", Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCVA2IBC/1706-showmax-hd.png", Show MAX
-http://stream.tvcdn.net/eglence/show-max.m3u8
+http://canlitvulusal.xyz/live/showmax/index.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCZA2IBC/1714-360-tv-hd.png", 360 TV
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114", TV4
@@ -42,58 +77,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7avrupa/images/kanal7avrupa_logo.png", KANAL 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://www.showturk.com.tr/images/core/showturk-v-1.svg?v=12", Show Türk
-https://node2-az-baku-delta.streamy.group/stream/9resssg9s4j3mfp6gyswc7hxg6d6i3caevt8smp2ra5p9q5y84ib3x8rth7x3npzig3z3qv6t8zsrucjwfj7i86ff6dgddxhraes3eag2djc97nf2wrmi5e66utwywzcbbaqjqyucxd2rn5ch7pp9me6g2zsba3bfwpaxb85w8bns===.m3u8
+http://canlitvulusal.xyz/live/showturk/index.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC6Q2IBC/1725-trt-turk.png", TRT Türk
 http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC5Q2IBC/1723-trt-muzik.png", TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-
-
-
-
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDQYIBC/1607-aztv.png", AzTV HD
-https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/aztv.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDMQ2IBC/1753-azad-azerbaycan.png", Azad Azərbaycan HD
-https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/azadazerbaycan.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDGQYIBC/1613-arb-tv.png", ARB TV HD
-https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arb.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHAYIBC/1614-arb-24-hd.png", ARB 24 HD
-https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arb24.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHQYIBC/1615-arb-guenes.png", ARB Gunes HD
-https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arbgunes.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLQYIBC/1623-agro-tv-hd.png", AGRO TV HD
-https://node2-az-baku-delta.streamy.group/stream/jgq2ak8nsr3er9a8e5hqju573qfs54p2esm6py9udu42isug9uivjgqmcf43zx7zz92eu25vi69hnrrm2xbe8ysek7n2emy7hr9qdsa98zf3dqjycgxqcpzxspm6kjqch7k4vrpqyden4nq9zvpy2hfniqfjuwzt7w2zmg6i94h8wws=.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLAYIBC/1622-baku-tv-hd.png", Baku TV HD
-https://node1-az-baku-delta.streamy.group/stream/svkugenztk7tfdf5d7atgyszhn5jq2rqjabf2sj86isg6nv42y2dks3d2wi4zwpixer4zagqsbnpa3rtvkwp9b8nvxyd8mcz8tmsctiuj7tfigz54kj2tsujnj76q8rzdkrcuh5te4sdtwgrnvgpqbjg2wy5iy22v6j2hz6kik4s====.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDJQYIBC/1619-cbc-azerbaijan.png", CBC Azerbaijan HD
-https://node2-az-baku-delta.streamy.group/stream/fev4qmpxcgsmdb7377j84tzyjvb9expebf9afcvq4afqcb4yd7hbfcba6yrgdbsm775da6sunaezvrg7vk5kwi6g9cnw5cxiysatrcybmpgpuqjr92xmudydspate86az4gytvx77veziqij5m5a75c4v8wqwcagjicg6zbiggxh4===.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDAYIBC/1606-cbc-sport-hd.png", CBC Sport HD
-https://node2-az-baku-delta.streamy.group/stream/m2ntbbd4cmedh666r4mvrmmwer49cue7cvjq37xjataj7vgy9qafqqp2zpfku6qja5v5cjguqcitysy83pi3rg9zfzraggszeeatci3tddgbm28ug6ejnzuqs9zidg7xqs7e8add65aeejywgmtarv2nndr3e57reppqtkz3yuvuiwh7ivteu4i=.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDMA2IBC/1752-duenya-tv.png", Dunya TV
-https://node1-az-baku-delta.streamy.group/stream/3f7hzq99c2wqbizhzgdfn2nk7etchy6q79762fkugqfskk2mjue57w9ee5udyj9qyzzau2r35gyzbwa2xxgebxwgupdyuqzj8webzirctw3ibhs2q9j58mebek7qpdemhd8jwx3w2asr486rrv9qjpayhw4pqazyu4sftjxa4hxmg67h.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDFQYIBC/1611-xezer-tv.png", Xezer TV HD
-https://node2-az-baku-delta.streamy.group/stream/nnpt2wsq4e7r8z39h77jjsynwp8qj4jmjfku4s6gmkfx8b5gfdba6icbx3gdruz23btzg5m57czjnvj9jjpygxyg2zvav84jgnrtz2naw3crnzu3xrtkgc549aaa9rxekq8xzkb6s4wvmdbv5jarwp6tbyfdv98tp8gimbq9zk6a====.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDEQYIBC/1609-idman-tv.png", Idman TV HD
-https://node2-az-baku-delta.streamy.group/stream/jisfneqxf8hk4vp9s8izd2zw9mybxh3yd5utfbwskkujdjtannfju934ffpx9xygvh5vivajdfzz3dsga4x2q8nncc4kkchg96nfu3kyhrwtfc4be84wbtt9izkq5ujtyyzm4xhhv9qjs77x849s7hgdgqi68ydt8f6gv68etvgh2===.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDFAYIBC/1610-ictimai-tv.png", Ictimai TV HD
-https://node2-az-baku-delta.streamy.group/stream/4qhupgrxj4kkiyh6dduqucn53uqskqk6hsb2au652ihj9ttsq2kzjv9ww35r9rmawaais7t4hvz2bczzx586diftr6hg5uv23fuzuevyynkn8j5xa3vv3phpuvbz22ws3jkn36b5xnzxk3g3faif9ggks8ny9bsn6p4rm5eps4j38===.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDIQYIBC/1617-kanal-s-hd.png", Kanal S HD
-https://node2-az-baku-delta.streamy.group/stream/dz7cgk3vsk2t93iu3s5qzbhu6nx9zn8jkpiag2ajan3ab4bcgq5zufn8a2jk56gjvyvzs7vgr4j9uqthedhvrkidf5fvtpay7hcueunx84bdst6nms2zgdcds9rmxin23u9gfza8vcgzjv6tur5yhqczfxqka3wkctimi6td7rn8a===.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDWBCIBC/2284-kepez-tv.png", Kepez TV
-https://node2-az-baku-delta.streamy.group/stream/3bm5vphbfhj3gaxyd7v9amtecbn5jnm3s8cwn4u26xdv9dqjwdmetnepjc62t4trsgrptww3jbf8m87r9b6iaq7k99vfy45ei75ze3cai8tkxx8np8gjf4tpvxkv352nr26bbrs9knzw7raa58r7ynqbebsv2sf5ws58yyidjpca7bi=.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCLQ2IBC/1687-mcj-tv-shop.png", MCJ TV Shop
-https://node1-az-baku-delta.streamy.group/stream/wnvmvhkr7mjut6vbwshz9pbcp4bhia7y5cesfsjrcrznycqe77a56dejkp54w6as2n2awer9ppv98t7si3nznuqeuiwvgntfwaxgmg6i5wub3is69nfg6rbz3y3esg8u69yzv7sgxwjjw9x3gx4jvpxdftk672mhcpg2bdsrawfqdf2=.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDEAYIBC/1608-medeniyyet-tv.png", Medeniyyet TV HD
-https://node1-az-baku-delta.streamy.group/stream/kj9exanhcp373crvak3ahyiraabmzav4ay47kxzpn99vcqpbfc8b6vnb9u6mnc2gdcvtpden4b4hnrspx3k9knpxe6fja9f9ac5a3zt56v33r9dcjrv2agegreqvjebkjimwmxjrvmxewbmydsr6c5z5gfpqtpczmipwxgich28be===.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDKQYIBC/1621-mtv-azerbaycan.png", MTV Azerbaycan HD
-https://node1-az-baku-delta.streamy.group/stream/jpajkz6inx8bi7246qfzebwg96yr49hmdbdcu77f9w5898g3t49mnayqk47wdcpbh5w6r9m9dr3i2a4ywcthgdfhpjpxxky97g2js4derggcvzbwi8x9rkqpcq7gfzmj3vzpzxhscrq2y7jfcnnenz3vg7etd65hkggub98g88is====.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDJAYIBC/1618-real-tv.png", Real TV HD
-https://node2-az-baku-delta.streamy.group/stream/jcs4uzx5ajwsx3fh5gmwtjxffkqt7249yu8ubneuus2eeskswhynqpqj2495f3sifg8mb7u8wnc5v64rt7g2ezvzq8wkbsiy3gatmtbz6wgrpn8msugk8nhskaaqwqkkvak83vkv9sgsazv2666gex6jrg8v4m7zfhxquh7pgbr66===.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLQ2IBC/1751-sh-tv-hd.png", SH TV HD
-https://node1-az-baku-delta.streamy.group/stream/u5zyaip7zuzpxuxwnba4xu4zktcnvqbbf5j226k59cynwjvb5yr7a4wsva7ezw5tyd7cjunhnbp3gqssqi32zut45zvapjnkja9w8qiht8jq23z722sk2xmp93ezhgpd87ns8rurdfjktaynefwchr6axxubfmbwhtbsqb2yvx42u===.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDIAYIBC/1616-space-tv.png", Space TV HD
-https://node1-az-baku-delta.streamy.group/stream/k5637vaqp2vsy6i6jm2pvtwjgsx85ba8dm6iypfkd7vegrhpetbwyk5p6r69idnsikvjmfwem96d8unfshnjbrd3tgz74gi9bk6tvyfavbfjcrkayr4si2sa9man4irbzgvnyat5ape6p76whjdi5dcbsixiacp7fhc2pchqdnms====.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDKAYIBC/1620-tmb-tv-azerbaijan-hd.png", TMB TV Azerbaijan HD
-https://node2-az-baku-delta.streamy.group/stream/kqgyu9r4ywviegr3hst5mk3mwrtd522gmqhqpgnyumipgbd4nwky8yafbqzy7wh57264sivvu6ei97z692xc9er4bnck3ayw9uyudym6feiamtrt48nzud74qb6n4cx3xj8u82fiyae7xascjnfrkihgfq9tjb36djqqnmihfwrii===.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCWRCIBC/2221-vip-tv-hd.png", VIP HD
-https://node2-az-baku-delta.streamy.group/stream/2etgpc4uccaridaznpgp6evr6h9icqfsnvyv4mpzj534bigt4um6dtq3zvkpiizgu75uqfmiysd2hpdfnmvgdidjgziu26yrw3uz33jnsfwkduwc3whcebht3v5br2d94anit97ebra3b7zdk5vmf59txvz5gxrpj3pxzids4np2s===.m3u8
