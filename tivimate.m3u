@@ -51,22 +51,16 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 
 
 
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDQYIBC/1607-aztv.png", AZTV
-https://node2-az-baku-delta.streamy.group/stream/9w3atn2sn56syucaj9ueaprxfvk9467dp9ggsibkyvqn2ba4csghhk5buzp7akxupdcnpvbqqtz4fdwje65quvrz5dqayynih6i23xt8nxbucrzny4jtzp99rm54jqdtz3a8xzivg64xjyrkc655un3d5su3jstghe4fxe9ydqa8e===.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDGBEIBC/2380-anewz-hd.png", Anewz HD
-https://node1-az-baku-delta.streamy.group/stream/ujvhvn99tker7ca5ecjesv637jgvfzhdgk53rqpzgm72w4jzxtpivpiqhr8dh8acmy7hgiv2hynqbrhg58w2haetkcuens76hxnyr425xmawjkgp5v5jmces3tyquj83kdx8c8abnu3m2c7dcjy42p84khak4pzzmiicjupze67yhpzc6r4qfxvs.m3u8
+#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDQYIBC/1607-aztv.png", AzTV HD
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/aztv.m3u8
 #EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDMQ2IBC/1753-azad-azerbaycan.png", Azad Azərbaycan HD
-https://node1-az-baku-delta.streamy.group/stream/xhz4zesr52nshkx9f36wxdrngu8zk9anmiahnmkx9fgxbimxms4ye7uwwk3vvppeesafr55s9xt7ej2rvkdugpv95wdbxxekv7mxrkmcvgurie6wk3apaytwgssbb2jnvkrtpi8uzq2cpm5yqw675ah7ugkhjdeq76srk75nprhz9ica2ixagv8i.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCABCIBC/2176-atv-cinema-hd.png", ATV Cinema
-https://node2-az-baku-delta.streamy.group/stream/rxae43bnnzx7ejmnig44yummpuwgjf29sdk9npar46zpymqwa8kvembwsyz3f3uhdi84t4cry7qi5emcpexd3assbg99k6nq7f2vpui46rxd58yns3782f3qc46nm4376ti9edn8c99u2u2wvz3ke5afmmh8xvrjipufi4get6r6kqywsakwkkj9.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC3BCIBC/2230-atv-vivace.png", ATV Vivace
-https://node1-az-baku-delta.streamy.group/stream/pfkche2r8j6kq3zzammdg2ds5s3v7tt74u232ebbmagynnihnqvb6mcnug9i4zayvfdxudm7y56hx3z49qtpbif632g8tq5a3qwt23br7aemu6a66v4pjr4xjdhd5jq2isnrim64biwacy7x4qdtc3q32cmij8vsbvbqr66xytsmzx383a4ctj6v.m3u8
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/azadazerbaycan.m3u8
 #EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDGQYIBC/1613-arb-tv.png", ARB TV HD
-https://node1-az-baku-delta.streamy.group/stream/rx26i3iebehdxhjwk4tq4jspfpkh3kbhbahrqg92yj2y6bh3k5pixmmxtpthvrjbmxgumj35g3ryyigudnv96b9bcverzgpbyffjkzima55kzhppahqm6entakqag937ztjuhhc49t7m5dg8eqrb6uk6ptde7uq56besrip6yivpuc2fng2r5u78.m3u8
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arb.m3u8
 #EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHAYIBC/1614-arb-24-hd.png", ARB 24 HD
-https://node1-az-baku-delta.streamy.group/stream/we3uba6sabw5y3t2dquvctjhkjw8cr3kvfis65qh32pu53idqwnmyq8yhwx79r2favrtawzhsmedx3wg2v4atw9v5m3anr5jya5vetr6g8tda22h956vieet377qm2um25g8n4gvp5k3jy7fbnw6a7bazyhkb3wewagc99x45bg7ej8ejgxi3zs=.m3u8
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arb24.m3u8
 #EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHQYIBC/1615-arb-guenes.png", ARB Gunes HD
-https://node1-az-baku-delta.streamy.group/stream/32tserk4uxkf48rwn32wjdmc83vi4867fp8iuhx67pdjnikdt8i724mcqakpwdqstnhu797rfdprvafrixrwn3nz9cqikcpkkd3gac32e67ers7nvz78bbifg4sv2g5j3bde3855g4wsfktrqq4pgxtfmcpdtbbp9riakggpmjjwy===.m3u8
+https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/streams/arbgunes.m3u8
 #EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLQYIBC/1623-agro-tv-hd.png", AGRO TV HD
 https://node2-az-baku-delta.streamy.group/stream/jgq2ak8nsr3er9a8e5hqju573qfs54p2esm6py9udu42isug9uivjgqmcf43zx7zz92eu25vi69hnrrm2xbe8ysek7n2emy7hr9qdsa98zf3dqjycgxqcpzxspm6kjqch7k4vrpqyden4nq9zvpy2hfniqfjuwzt7w2zmg6i94h8wws=.m3u8
 #EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLAYIBC/1622-baku-tv-hd.png", Baku TV HD
