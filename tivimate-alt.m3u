@@ -54,19 +54,19 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/xazar-izle-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV HD
 http://flussonic.izone.az/xezertv/index.m3u8
 
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCBRCIBC/2179-trt-1-hd.png", TRT 1
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/YhKQJHE.png", TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/Blekh8p.png", ATV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC6RCIBC/2237-a2-tr.png", A2 TV
+#EXTINF:0 type="stream" group-title="Türkiye" logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png", A2 TV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.ibb.co/QvTPfhs/now.png", NOW TV
 http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCCRCIBC/2181-star-hd.png", Star TV
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/le0hb7q.png", Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-EXTINF:1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" tvg-name="Show TV" group-title="Türkiye",SHOW TV HD
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/xA7A4oL.png", Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BD5AYIBC/1658-kanal-d-hd.png", Kanal D
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/ULv7b06.png", Kanal D
 http://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/zYziGXN.png", TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
@@ -74,37 +74,37 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 http://flussonic.izone.az/tv8int/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" tvg-name="TV 8.5" group-title="Türkiye",TV 8.5 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCDRCIBC/2183-beyaz-hd.png", Beyaz TV
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://m.beyaztv.com.tr/images/logo.png", Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BD6AYIBC/1660-kanal-7-avrupa-hd.png", KANAL 7
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/pxpLpnH.png", KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDCRCIBC/2245-teve2-hd.png", Teve 2
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://s.teve2.com.tr/assets/img/teve2logo.png?v=1", Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCVA2IBC/1706-showmax-hd.png", Show MAX
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/2048px-Show_MAX_logo.svg.png", Show MAX
 http://canlitvulusal.xyz/live/showmax/index.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCZA2IBC/1714-360-tv-hd.png", 360 TV
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/eXKohZ5.png", 360 TV
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114", TV4
 http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCURCIBC/2217-dmax-hd.png", DMAX
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/WXj8YcR.png", DMAX
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDBCIBC/2246-tlc-tr-hd.png", TLC
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png", TLC
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC5A2IBC/1722-trt-belgesel-hd.png", TRT Belgesel
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/KLC5eOL.png", TRT Belgesel
 http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC2Q2IBC/1717-trt-cocuk.png", TRT Çocuk
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/INCUbh5.png", TRT Çocuk
 http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC3A2IBC/1718-trt-world-hd.png", TRT World
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/8AmNMJE.png", TRT World
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC7Q2IBC/1727-euro-d.png", Euro D
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://eurod.kanald.com.tr/assets/img/logo.v5.png", Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://cdn.kanal7.com/kanal7/wp-content/themes/kanal7avrupa/images/kanal7avrupa_logo.png", KANAL 7 Avrupa
+#EXTINF:0 type="stream" group-title="Türkiye" logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png", KANAL 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://www.showturk.com.tr/images/core/showturk-v-1.svg?v=12", Show Türk
 http://canlitvulusal.xyz/live/showturk/index.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC6Q2IBC/1725-trt-turk.png", TRT Türk
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://www.trtturk.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trtturk_logo.png", TRT Türk
 http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC5Q2IBC/1723-trt-muzik.png", TRT Müzik
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/R6nT0an.png", TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Türkiye",TRT Spor
 http://flussonic.izone.az/trtspor/index.m3u8
@@ -112,9 +112,6 @@ http://flussonic.izone.az/trtspor/index.m3u8
 http://flussonic.izone.az:80/cartoonnetworkturk/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://i.tmgrup.com.tr/mnka/go/site/Version1/i/logo.png" group-title="Türkiye" channelId="1096", Minika Go
 http://flussonic.izone.az:80/minikago/index.m3u8
-
-#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="Global" channelId="58", Discovery Science
-http://flussonic.izone.az:80/discoveryscience/index.m3u8
 
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="277", Наш Футбол
 http://flussonic.izone.az:80/nashfutbol/index.m3u8
@@ -417,3 +414,6 @@ https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_adaptive.m3u8
 https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700_adaptive.m3u8
 #EXTINF:1 tvg-logo="https://top-radio.ru/assets/image/radio/180/saglam-radio.jpg" group-title="Radio / Azərbaycan",Sağlam Radio
 https://s24.myradiostream.com/:17446/listen.mp3
+
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="Global" channelId="58", Discovery Science
+http://flussonic.izone.az:80/discoveryscience/index.m3u8
