@@ -1,37 +1,57 @@
 #EXTM3U url-tvg=https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDGQYIBC/1613-arb-tv.png", ARB TV
+#EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/m6CM7VU.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Alvin Channel
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:1 tvg-id="APA TV" tvg-logo="https://i.imgur.com/2CSW4V4.png" tvg-language="Azerbaijani" group-title="Azərbaycan",APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:1 tvg-id="ARB.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/arbtvaz-min.png" tvg-language="Azerbaijani" group-title="Azərbaycan",ARB HD
 http://flussonic.izone.az/arb/index.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHAYIBC/1614-arb-24-hd.png", ARB24
+#EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/boZai3b.png" tvg-name="ARB 24 HD" group-title="Azərbaycan",ARB 24 HD
 https://stream.atv.az/HLS3/streams/arb24.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDHQYIBC/1615-arb-guenes.png", ARB Gunes
+#EXTINF:1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/arb-gunes-az-hd.png" tvg-name="ARB Günəş" group-title="Azərbaycan",ARB Günəş
 http://flussonic.izone.az/arbgunesh/index.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDMQ2IBC/1753-azad-azerbaycan.png", Azad Azərbaycan
+#EXTINF:1 tvg-id="ATV.az" tvg-logo="https://antifriz.tv/storage/images/channel_logos/785cfca9083712aedfed84b91a0f00e8.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Azad Azərbaycan HD
 http://flussonic.izone.az/azadazerbaycan/index.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDQYIBC/1607-aztv.png", AzTV
+#EXTINF:1 tvg-id="AYAZ TV" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
+#EXTINF:1 tvg-id="AzTV.az" tvg-logo="https://i.imgur.com/vvRXNTp.png" tvg-language="Azerbaijani" group-title="Azərbaycan",AzTV
 http://flussonic.izone.az/aztv/index.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLAYIBC/1622-baku-tv-hd.png", Baku TV
+#EXTINF:1 tvg-id="" tvg-logo="https://vipotv.com/wp-content/uploads/2020/10/bakutv-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Baku TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDDAYIBC/1606-cbc-sport-hd.png", CBC Sport
+#EXTINF:1 tvg-id="" tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png" tvg-name="CBC Sports" group-title="Azərbaycan",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDJQYIBC/1619-cbc-azerbaijan.png", CBC Azerbaijan
+#EXTINF:1 tvg-id="" tvg-logo="https://iptvx.one/picons/cbc-az.png" tvg-language="Azerbaijani" group-title="Azərbaycan",CBC TV
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDMA2IBC/1752-duenya-tv.png", Dunya TV
+#EXTINF:1 tvg-id="DunyaTV.az" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya-tv-az.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Dünya TV
 http://flussonic.izone.az/dunyatv/index.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDFAYIBC/1610-ictimai-tv.png", Ictimai TV
+#EXTINF:1 tvg-id="GunAz TV" tvg-logo="https://gunaz.tv/frontend/images/logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",GunAz TV
+https://2meet.az/live/livestream.flv
+#EXTINF:1 tvg-id="itv.az" tvg-logo="https://itv.az/assets/images/itv-logo.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İctimai TV HD
 https://live.itv.az/itv.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDEQYIBC/1609-idman-tv.png", Idman TV
+#EXTINF:1 tvg-id="IdmanTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",İdman TV
 https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDEAYIBC/1608-medeniyyet-tv.png", Medeniyyet TV
+#EXTINF:1 tvg-logo="https://static.g-cdn.app/streams/start-tv-az-hd.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Kanal S
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/az/thumb/3/3e/K%C9%99p%C9%99z_TV_%282019-h.h.%29.png/512px-K%C9%99p%C9%99z_TV_%282019-h.h.%29.png" tvg-language="Azerbaijani" tvg-name="Kəpəz TV" group-title="Azərbaycan",Kəpəz TV
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:1 tvg-id="LiveTV.Az" tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" tvg-language="Azerbaijani" group-title="Azərbaycan",Live TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:1 tvg-id="MedeniyyetTV.az" tvg-logo="https://i.imgur.com/gt8Fhjj.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Mədəniyyət TV
 https://str2.yodacdn.net/meden_300_to_small/index.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDKQYIBC/1621-mtv-azerbaycan.png", MTV Azerbaycan
+#EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/lSBMeBU.png" tvg-name="Muz TV" tvg-language="Azerbaijani" group-title="Azərbaycan",Muz TV
 http://flussonic.izone.az/muztvaz/index.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDJAYIBC/1618-real-tv.png", Real TV
+#EXTINF:1 tvg-id="Naxçıvan TV" tvg-logo="https://ntv.az/assets/images/logo.png?v=2" tvg-language="Azerbaijani" group-title="Azərbaycan",Naxçıvan TV
+https://str.yodacdn.net/ntv/index.m3u8
+#EXTINF:1 tvg-id="Real TV" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Real TV HD
 http://flussonic.izone.az/realtv/index.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDLQ2IBC/1751-sh-tv-hd.png", Sehiyye TV
+#EXTINF:1 tvg-id="" tvg-logo="https://i.imgur.com/xDA57ls.png" tvg-name="Səhiyyə TV" tvg-language="Azerbaijani" group-title="Azərbaycan",Səhiyyə TV
 http://185.32.44.154/sehiyye/index.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDIAYIBC/1616-space-tv.png", Space TV
+#EXTINF:1 tvg-id="SHOW PLUS TV" tvg-logo="https://i.imgur.com/Je2DGSG.jpg" tvg-language="Azerbaijani" group-title="Azərbaycan",Show Plus TV
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:1 tvg-id="SpaceTV.az" tvg-logo="https://i.imgur.com/gOAEQgv.png" tvg-language="Azerbaijani" tvg-language="Azerbaijani" group-title="Azərbaycan",Space TV
 http://flussonic.izone.az/spacetv/index.m3u8
-#EXTINF:0 type="stream" group-title="Azerbaycan" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BDFQYIBC/1611-xezer-tv.png", Xezer TV
+#EXTINF:1 tvg-id="TMB AZ TV" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" tvg-language="Azerbaijani" group-title="Azərbaycan",TMB AZ TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-tv.m3u8
+#EXTINF:1 tvg-id="XezerTV.az" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/xazar-izle-vipotv.png" tvg-language="Azerbaijani" group-title="Azərbaycan",Xəzər TV HD
 http://flussonic.izone.az/xezertv/index.m3u8
 
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCBRCIBC/2179-trt-1-hd.png", TRT 1
