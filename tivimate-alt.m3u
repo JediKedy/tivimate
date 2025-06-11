@@ -60,16 +60,20 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC6RCIBC/2237-a2-tr.png", A2 TV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/homSiDa.png", NOW TV
+#EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.ibb.co/QvTPfhs/now.png", NOW TV
 http://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCCRCIBC/2181-star-hd.png", Star TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCDBCIBC/2182-show-tv-hd.png", Show TV
-http://ciner-live.daioncdn.net/showtv/showtv.m3u8
+EXTINF:1 tvg-id="" tvg-logo="https://static.g-cdn.app/streams/show-hd-tr.png" tvg-name="Show TV" group-title="Türkiye",SHOW TV HD
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BD5AYIBC/1658-kanal-d-hd.png", Kanal D
 http://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://i.imgur.com/zYziGXN.png", TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" tvg-name="TV 8 INT" group-title="Türkiye",TV 8 INT
+http://flussonic.izone.az/tv8int/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" tvg-name="TV 8.5" group-title="Türkiye",TV 8.5 HD
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BCDRCIBC/2183-beyaz-hd.png", Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BD6AYIBC/1660-kanal-7-avrupa-hd.png", KANAL 7
@@ -102,6 +106,15 @@ http://canlitvulusal.xyz/live/showturk/index.m3u8
 http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" group-title="Türkiye" logo="https://static.kontakt.streamy.group/images/cache/channel_icons/BC5Q2IBC/1723-trt-muzik.png", TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Türkiye",TRT Spor
+http://flussonic.izone.az/trtspor/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Türkiye" channelId="-1", Cartoon Network Turkiye
+http://flussonic.izone.az:80/cartoonnetworkturk/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://i.tmgrup.com.tr/mnka/go/site/Version1/i/logo.png" group-title="Türkiye" channelId="1096", Minika Go
+http://flussonic.izone.az:80/minikago/index.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="Global" channelId="58", Discovery Science
+http://flussonic.izone.az:80/discoveryscience/index.m3u8
 
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="277", Наш Футбол
 http://flussonic.izone.az:80/nashfutbol/index.m3u8
@@ -186,434 +199,221 @@ http://flussonic.izone.az:80/kinoxit/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="270", Киномикс
 http://flussonic.izone.az:80/kinomiks/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="315", Наше новое Кино
-
 http://flussonic.izone.az:80/nashenovoekino/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="169", Мужское кино
-
 http://flussonic.izone.az:80/mkino/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="195", Киносерия
-
 http://flussonic.izone.az:80/kinoseria/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="568", Киносемья
-
 http://flussonic.izone.az:80/kinosemya/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="316", Родное кино
 http://flussonic.izone.az:80/rodnoekino/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="410", Кинопремьера HD
-
 http://erlyvideo.izone.az:80/kinopremerahd/index.m3u8 
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="79", Еврокино
-
 http://flussonic.izone.az:80/eurokino/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="913", Amedia 1
-
 http://flussonic.izone.az:80/amedia1/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="914", Amedia 2
-
 http://flussonic.izone.az:80/amedia2/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="1455", History Channel
-
 http://flussonic.izone.az:80/history/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="166", Viasat History
-
 http://flussonic.izone.az:80/viasathistory/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="319", Sony Turbo
-
 http://flussonic.izone.az:80/sonyturbo/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="301", RTG
-
 http://flussonic.izone.az:80/rtg/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="57", Discovery Channel
-
 http://flussonic.izone.az:80/discoverychannel/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="56", National Geographic
-
-http://flussonic.izone.az:80/nationalgeographic/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="562", живая Планета
-
 http://flussonic.izone.az:80/jivayaplaneta/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="221", Охота и рыбалка
-
 http://flussonic.izone.az:80/oxotoiribalka/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="249", Домашние животные
-
 http://flussonic.izone.az:80/domashniejivotnie/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="167", Зоопарк
-
 http://flussonic.izone.az:80/zoopark/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="172", Viasat Nature
-
 http://flussonic.izone.az:80/viasatnature/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="46", VH1 Europe
-
 http://flussonic.izone.az:80/vh1europe/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Discovery Turbo Extra
-
-http://flussonic.izone.az:80/dtx/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="136", Муз ТВ
-
 http://flussonic.izone.az:80/muztv/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="148", Музыка Первого
-
 http://flussonic.izone.az:80/muzika1/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="984", Viva
-
 http://flussonic.izone.az:80/vivatv/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="47", Шансон ТВ
-
 http://flussonic.izone.az:80/shanson/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Cartoon Network Turkiye
-
-http://flussonic.izone.az:80/cartoonnetworkturk/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="156", Extreme Sports
-
 http://flussonic.izone.az:80/extremesport/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", OSN Sport
-
-http://flussonic.izone.az:80/osnsports/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Bridge TB
-
 http://flussonic.izone.az:80/bridgetv/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="171", Da Vinci Learning
-
 http://flussonic.izone.az:80/davinchilearning/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="118", BBC World News
-
-http://flussonic.izone.az:80/bbcworld/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="1571", CTC Love
-
 http://flussonic.izone.az:80/ctclove/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="67", TLC
-
 http://flussonic.izone.az:80/tlc/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="1105", MTV RUSSIA
-
 http://flussonic.izone.az:80/mtvrussia/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="59", Investigation Discovery
-
 http://flussonic.izone.az:80/idextra/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="150", Ля минор
-
 http://flussonic.izone.az:80/lyaminor/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="4932", OSN Movies
-
-http://flussonic.izone.az:80/osnmovies/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", БОБЁР ТВ
-
-http://flussonic.izone.az:80/bobertv/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="149", VH1 Classic
-
 http://flussonic.izone.az:80/vh1classic/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="160", Ностальгия
-
 http://flussonic.izone.az:80/nostalgiya/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Первый образовательный
-
-http://flussonic.izone.az:80/perviyobrazovatelny/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="176", Время
-
 http://flussonic.izone.az:80/vremya/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Ani TB
-
 http://flussonic.izone.az:80/anitv/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Disney Channel Türkiye
-
-http://flussonic.izone.az:80/disneychannelturk/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Телеканал Комедия
-
-http://flussonic.izone.az:80/telekanalkomedia/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="43", Mezzo
-
 http://flussonic.izone.az:80/mezzo/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="2802", Bollywood TV
-
-http://flussonic.izone.az:80/bollywoodtv/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="342", Кино тв 
 http://flussonic.izone.az:80/kinotv/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="175", Совершенно секретно
-
 http://flussonic.izone.az:80/sovershennosekretno/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="174", Кто есть кто
-
 http://flussonic.izone.az:80/ktoestkto/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="887", История
-
 http://flussonic.izone.az:80/istoriya/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", 24 Док
-
 http://flussonic.izone.az:80/24dok/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="161", Телекафе
-
 http://flussonic.izone.az:80/telekafe/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="42", Европа Плюс ТВ
-
 http://flussonic.izone.az:80/europaplus/index.m3u8
-
 #EXTINF: type="stream" group-title="Rusiya" channelId="325", загородная жизнь
-
 http://flussonic.izone.az:80/zaqorodnayajizn/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="177", FOX Russia
-
 http://flussonic.izone.az:80/foxrussia/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="69", Sony SCI-FI 
-http://flussonic.izone.az:80/sonyscifi/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="324", CBS Reality
-
-http://flussonic.izone.az:80/cbsreality/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="135", ТДК
-
-http://flussonic.izone.az:80/tdk/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="80", КХЛ тв
-
 http://flussonic.izone.az:80/kxltv/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Детский
-
 http://flussonic.izone.az:80/detskiy/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="272", НСТВ
-
 http://flussonic.izone.az:80/nst/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="190", Иллюзион+
-
 http://flussonic.izone.az:80/illuzion/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="303", Русский Бестселлер
-
 http://flussonic.izone.az:80/russkiybetseller/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="989", TRT Türk
-
-http://flussonic.izone.az:80/trtturk/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="54", Travel Channel
-
 http://flussonic.izone.az:80/travelchannel/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="447", Матч! Планета
-
 http://flussonic.izone.az:80/machplaneta/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="52", 365 дней
-
 http://flussonic.izone.az:80/365dney/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="14", 2x2
-
 http://flussonic.izone.az:80/2x2/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="193", TV XXI
-
 http://flussonic.izone.az:80/tv21/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", S TV
-
 http://flussonic.izone.az:80/stv/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="53", Моя Планета
-
 http://flussonic.izone.az:80/moyaplaneta/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Kral Pop
-
-http://flussonic.izone.az:80/kralpop/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="154", Русский экстрим
-
-http://flussonic.izone.az:80/ruskiyextrim/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="191", Jim Jam
-
 http://flussonic.izone.az:80/jimjam/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="1722", Мульт
-
-http://flussonic.izone.az:80/mult/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="58", Discovery Science
-
-http://flussonic.izone.az:80/discoveryscience/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="1096", Minika Go
-
-http://flussonic.izone.az:80/minikago/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="75", Кухня ТВ
-
 http://flussonic.izone.az:80/kuxnyatv/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="164", Nat Geo Wild
-
-http://flussonic.izone.az:80/natgeowild/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="39", Детский Мир
-
 http://flussonic.izone.az:80/detskiymir/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="915", Amedia Premium
-
-http://flussonic.izone.az:80/AmediaPremium/index.
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="1932", Amedia Hit
-
-http://flussonic.izone.az:80/amediahit/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="290", MTV Rocks
-
-http://flussonic.izone.az:80/mtvrocks/index.m3u8
-
+http://flussonic.izone.az:80/AmediaPremium/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="45", Ru TV 
-
 http://flussonic.izone.az:80/rutv/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="19", Disney Channel
-
-http://flussonic.izone.az:80/disneyru/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="50", Animal Planet
-
 http://flussonic.izone.az:80/animalplanet/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="183", Gulli Girl
-
 http://flussonic.izone.az:80/gulligirl/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="155", Viasat Sport
-
 http://flussonic.izone.az:80/viasatsport/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="1827", Бокс ТВ
-
 http://flussonic.izone.az:80/bokstv/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", TV2
-
-http://flussonic.izone.az:80/tv2/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="28", Music Box RU
-
-http://flussonic.izone.az:80/musicboxru/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="1699", Paramount Comedy
-
-http://flussonic.izone.az:80/paramaunt.comedy/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="178", Fox Life
-
 http://flussonic.izone.az:80/foxlife/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="314", любимое кино
-
 http://flussonic.izone.az:80/lubimoekino/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="173", Наука 2.0
-
 http://flussonic.izone.az:80/nauka/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="68", Дом кино
-
 http://flussonic.izone.az:80/domkino/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="165", Viasat Explorer
-
 http://flussonic.izone.az:80/viasatexplorer/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="81", Матч! Боец
-
 http://flussonic.izone.az:80/boets/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", TİJİ
-
 http://flussonic.izone.az:80/tiji/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="76", живи!
-
 http://flussonic.izone.az:80/jivi/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="209", эгоист ТВ
-
-http://flussonic.izone.az:80/egoisttv/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="44", MCM Тор
-
 http://flussonic.izone.az:80/mcmtop/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="162", 24 Техно
-
 http://flussonic.izone.az:80/24texno/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="181", Парк Развлечений
-
 http://flussonic.izone.az:80/parkrasvleceniy/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="2836", Хорошее Кино
-
 http://flussonic.izone.az:80/xoroshoekino/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="198", Русский Роман
-
 http://flussonic.izone.az:80/russkiyroman/index.m3u8
-
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="188", Sony TV
-
-http://flussonic.izone.az:80/sonytv/index.m3u8
-
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="186", Мультимания
-
 http://flussonic.izone.az:80/multmania/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/90FM_Ictimai_logo_1.png" group-title="Radio / Azərbaycan",İctimai Radio 90FM
+https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" group-title="Radio / Azərbaycan",Azərbaycan Radiosu
+https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_int_logo.png" group-title="Radio / Azərbaycan",Beynəlxalq Radio
+https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/yurd-fm-az.webp" group-title="Radio / Azərbaycan",Yurd FM
+https://icecast.livetv.az/yurdfm
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/yurd-fm-az.webp" group-title="Radio / Azərbaycan",Yurd FM (Camera)
+https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
+#EXTINF:1 tvg-logo="http://bakuretrofm.az/wp-content/uploads/2023/03/Baku_retro_fm_2.png" group-title="Radio / Azərbaycan",Baku Retro FM
+http://5.191.241.101:8000/bakuretrofm
+#EXTINF:1 tvg-logo="http://bakuhitfm.az/wp-content/uploads/2023/03/Baku_hit_fm_2.png" group-title="Radio / Azərbaycan",Baku Hit FM
+http://5.191.241.101:8000/bakuhitfm
+#EXTINF:1 tvg-logo="https://asanradio.az/photos/341098_1491724822_logo.png" group-title="Radio / Azərbaycan",ASAN Radio
+http://94.20.74.206:4448/stream1
+#EXTINF:1 tvg-logo="https://islamevi.az/app/storage/2023/06/media-tmb-radio-rfe7hs.png" group-title="Radio / Azərbaycan",Radio TMB
+https://s39.myradiostream.com/5458/listen.mp3
+#EXTINF:1 tvg-logo="https://enerjifm.az/templates/default/images/logo.png" group-title="Radio / Azərbaycan",Radio Enerji
+https://icecast.livetv.az/antennfm
+#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639143011_xezer-fm-big-radio_org.png" group-title="Radio / Azərbaycan",Xəzər FM
+https://s40.myradiostream.com/:22546/listen.mp3
+#EXTINF:1 tvg-logo="https://www.arazfm.az/assets/araz_logo@300x.png" group-title="Radio / Azərbaycan",Araz FM
+http://s14.myradiostream.com:30454/listen.mp3
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" group-title="Radio / Azərbaycan",MEDİA FM
+https://icecast.livetv.az/mediafm
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" group-title="Radio / Azərbaycan",MEDİA FM (Camera)
+https://restreamer.livetv.az/memfs/a2076877-77f5-46f4-9b26-2396fbed8d82.m3u8
+#EXTINF:1 tvg-logo="https://avtofm.az/assets/images/logo_image.png" group-title="Radio / Azərbaycan",Avto FM
+http://5.191.241.101:8000/avtofm
+#EXTINF:1 tvg-logo="https://anspress.com//anschm-bl.png" group-title="Radio / Azərbaycan",ANS ÇM Radio
+https://live.ansradio.ws:8443/mp3_128
+#EXTINF:1 tvg-logo="https://radio.ntv.az/images/logo.png" group-title="Radio / Azərbaycan",Naxçıvan Radiosu
+http://s33.myradiostream.com:12782/;stream.nsv
+#EXTINF:1 tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/big(735px).png" group-title="Radio / Azərbaycan",Radio Vətən
+https://stream.zenolive.com/0kgkkzanmueuv
+#EXTINF:1 tvg-logo="https://lh6.googleusercontent.com/proxy/-Er9aMecZFXbKxGJG2TkHCy2G6W6aoqGEc-rwwpb5cehQuCPTgxEkLRg2kCAmMXfejjmATo7L6I" group-title="Radio / Azərbaycan",Kəpəz FM
+http://85.132.78.122:3344/now
+#EXTINF:1 tvg-logo="https://radio.autoliferadio.com:8080/media/servers/alr_logo_gold-3.png" group-title="Radio / Azərbaycan",AutoLife FM
+https://radio.autoliferadio.com:8005/radio
+#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2021-04/1618290684_viva-fm-azerbaijan-big-radio_org.png" group-title="Radio / Azərbaycan",VIVA FM Azərbaycan
+https://stream-48.zeno.fm/tbfu8vxb84zuv?zs=DTScpNhKRyCdI9pB5bME3Q
+#EXTINF:1 tvg-logo="https://www.day.az/assets/images/logo.svg" group-title="Radio / Azərbaycan",Day.Az Radio
+https://radio.day.az:9443/128m
+#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2022-06/dance-fm.webp" group-title="Radio / Azərbaycan",DANCE FM
+http://557e041d4bdc.sn.mynetname.net:8000/onefm?nc=0.09925802230680558
+#EXTINF:1 tvg-logo="https://cdn-profiles.tunein.com/s263460/images/logoq.png" group-title="Radio / Azərbaycan",Baku Jukebox
+http://78.109.52.73:8000/bkjbox
+#EXTINF:1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/129984.v3.png" group-title="Radio / Azərbaycan",Ağdam Radio
+https://a2.asurahosting.com:6650/radio.mp3
+#EXTINF:1 tvg-logo="https://yoda.az/logos/106fm.png" group-title="Radio / Azərbaycan",106 FM (Camera)
+https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_adaptive.m3u8
+#EXTINF:1 tvg-logo="https://106-3fm.az/assets/images/106-3-white.png?v=3" group-title="Radio / Azərbaycan",106.3 FM (Camera)
+https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700_adaptive.m3u8
+#EXTINF:1 tvg-logo="https://top-radio.ru/assets/image/radio/180/saglam-radio.jpg" group-title="Radio / Azərbaycan",Sağlam Radio
+https://s24.myradiostream.com/:17446/listen.mp3
