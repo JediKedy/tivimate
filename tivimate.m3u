@@ -114,41 +114,35 @@ http://flussonic.izone.az:80/cartoonnetworkturk/index.m3u8
 #EXTINF:0 tvg-id="Minika.Go.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/minika-go.png", Minika Go
 http://flussonic.izone.az:80/minikago/index.m3u8
 
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="277", Наш Футбол
-http://flussonic.izone.az:80/nashfutbol/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="157", Матч! Арена
+#EXTINF:0 group-title="Rusiya", Матч! Арена
 http://flussonic.izone.az:80/matcharena/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="84", Матч! наш спорт
+#EXTINF:0 group-title="Rusiya", Матч! Страна
 http://flussonic.izone.az:80/nashsport/mono.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="919", Футбол
+#EXTINF:0 group-title="Rusiya", Футбол
 http://flussonic.izone.az:80/futbol/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="82", Eurosport 1
+#EXTINF:0 group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/eurosport-1.png",Eurosport 1
 http://flussonic.izone.az:80/eurosport/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="83", EuroSport 2
+#EXTINF:0 group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/eurosport-2.png",EuroSport 2
 http://flussonic.izone.az:80/eurosport2/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="217", EuroNews
+#EXTINF:0 group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/euronews.png",EuroNews
 http://flussonic.izone.az:80/euronews/mono.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="1", Первый канал
-http://flussonic.izone.az:80/perviy/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="9", РБК
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rbk.png",РБК
 http://flussonic.izone.az:80/rbk/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="2", Россия 1
-http://flussonic.izone.az:80/rossiya1/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="10", Россия 24
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rossiya-1.png",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rossiya-24.png",Россия 24
 http://flussonic.izone.az:80/rosiyya24/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="5", Pоссия К
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rossiya-k.png", Pоссия К
 http://flussonic.izone.az:80/rossiakultura/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="264", PTP Планета
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://a-russia.ru/wp-content/uploads/2015/12/rtr-logo-65.jpg", PTP Планета
 http://flussonic.izone.az:80/rtrplaneta/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="6", HTB
-http://flussonic.izone.az:80/ntvplus/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="17", звезда
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/zvezda.png", звезда
 http://flussonic.izone.az:80/zvezda/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="8", TB-3
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%A2V3_logo_2023.svg/1024px-%D0%A2V3_logo_2023.svg.png", TB-3
 http://flussonic.izone.az:80/tv3/mono.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="22", Че
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/che.png", Че
 http://flussonic.izone.az:80/ce/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="11", РЕН ТВ
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/800px-REN_TV_logo_2017.svg.png", РЕН ТВ
 http://flussonic.izone.az:80/rentv/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="138", Мир тв
 http://flussonic.izone.az:80/mir/index.m3u8
