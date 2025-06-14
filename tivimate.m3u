@@ -138,7 +138,7 @@ http://flussonic.izone.az:80/rossiakultura/index.m3u8
 http://flussonic.izone.az:80/rtrplaneta/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/zvezda.png", звезда
 http://flussonic.izone.az:80/zvezda/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%A2V3_logo_2023.svg/1024px-%D0%A2V3_logo_2023.svg.png", TB-3
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tv-3.png"", TB-3
 http://flussonic.izone.az:80/tv3/mono.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/che.png", Че
 http://flussonic.izone.az:80/ce/index.m3u8
@@ -170,37 +170,37 @@ http://flussonic.izone.az:80/tvc/index.m3u8
 http://flussonic.izone.az:80/russkiyiluzion/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="65", TV1000 Русское кино
 http://flussonic.izone.az:80/tv1000ruskoekino/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="66", TV1000
+#EXTINF:0 type="stream" group-title="Rusiya" ctvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tv1000-action.png", TV1000
 http://flussonic.izone.az:80/tv1000/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="606", VIP Megahit HD
 http://erlyvideo.izone.az/VIPMegahitHD/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="214", TV1000 Action
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/.png", TV1000 Action
 http://flussonic.izone.az:80/tv1000action/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="605", VIP Premiere HD
 http://erlyvideo.izone.az/VIPPremiereHD/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="607", VIP Comedy HD
 http://erlyvideo.izone.az/VIPComedyHD/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="168", Индийское кино
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/indiyskoe-kino.png", Индийское кино
 http://flussonic.izone.az:80/indiskoekino/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="194", Кинокомедия
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinokomediya.png", Кинокомедия
 http://flussonic.izone.az:80/kinokomedia/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="413", Киносвидание
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinosvidanie.png", Киносвидание
 http://flussonic.izone.az:80/kinosvidanie/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="409", Кинохит
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinohit.png", Кинохит
 http://flussonic.izone.az:80/kinoxit/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="270", Киномикс
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinomiks.png", Киномикс
 http://flussonic.izone.az:80/kinomiks/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="315", Наше новое Кино
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/nashe-novoe-kino.png", Наше новое Кино
 http://flussonic.izone.az:80/nashenovoekino/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="169", Мужское кино
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/muzhskoe-kino.png", Мужское кино
 http://flussonic.izone.az:80/mkino/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="195", Киносерия
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinoseriya.png", Киносерия
 http://flussonic.izone.az:80/kinoseria/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="568", Киносемья
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinosemya.png", Киносемья
 http://flussonic.izone.az:80/kinosemya/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="316", Родное кино
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rodnoe-kino.png", Родное кино
 http://flussonic.izone.az:80/rodnoekino/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="410", Кинопремьера HD
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinopremera.png", Кинопремьера HD
 http://erlyvideo.izone.az:80/kinopremerahd/index.m3u8 
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="79", Еврокино
 http://flussonic.izone.az:80/eurokino/index.m3u8
@@ -214,7 +214,7 @@ http://flussonic.izone.az:80/history/index.m3u8
 http://flussonic.izone.az:80/viasathistory/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="319", Sony Turbo
 http://flussonic.izone.az:80/sonyturbo/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="301", RTG
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rtg.png", RTG
 http://flussonic.izone.az:80/rtg/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="57", Discovery Channel
 http://flussonic.izone.az:80/discoverychannel/index.m3u8
@@ -230,7 +230,7 @@ http://flussonic.izone.az:80/zoopark/index.m3u8
 http://flussonic.izone.az:80/viasatnature/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="46", VH1 Europe
 http://flussonic.izone.az:80/vh1europe/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="136", Муз ТВ
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/muz.png", Муз ТВ
 http://flussonic.izone.az:80/muztv/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="148", Музыка Первого
 http://flussonic.izone.az:80/muzika1/index.m3u8
@@ -246,7 +246,7 @@ http://flussonic.izone.az:80/bridgetv/index.m3u8
 http://flussonic.izone.az:80/davinchilearning/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="1571", CTC Love
 http://flussonic.izone.az:80/ctclove/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="67", TLC
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tlc.png", TLC
 http://flussonic.izone.az:80/tlc/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="1105", MTV RUSSIA
 http://flussonic.izone.az:80/mtvrussia/index.m3u8
