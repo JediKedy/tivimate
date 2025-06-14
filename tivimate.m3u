@@ -144,10 +144,10 @@ http://flussonic.izone.az:80/tv3/mono.m3u8
 http://flussonic.izone.az:80/ce/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/REN_TV_logo_2017.svg/800px-REN_TV_logo_2017.svg.png", РЕН ТВ
 http://flussonic.izone.az:80/rentv/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="138", Мир тв
-http://flussonic.izone.az:80/mir/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="589", Мир 24
-http://flussonic.izone.az:80/mir24/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/mir.png", Мир тв
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/mir-24.png", Мир 24
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="312", Мир сериала
 http://flussonic.izone.az:80/mirseriala/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="16", THT
@@ -168,7 +168,7 @@ http://flussonic.izone.az:80/5kanal/index.m3u8
 http://flussonic.izone.az:80/tvc/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="189", Русский Иллюзион
 http://flussonic.izone.az:80/russkiyiluzion/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="65", TV1000 Русское кино
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tv-1000-russkoe-kino.png", TV1000 Русское кино
 http://flussonic.izone.az:80/tv1000ruskoekino/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" ctvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tv1000-action.png", TV1000
 http://flussonic.izone.az:80/tv1000/index.m3u8
