@@ -210,7 +210,7 @@ http://flussonic.izone.az:80/amedia1/index.m3u8
 http://flussonic.izone.az:80/amedia2/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="1455", History Channel
 http://flussonic.izone.az:80/history/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="166", Viasat History
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/viju-history.png", Viju History
 http://flussonic.izone.az:80/viasathistory/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="319", Sony Turbo
 http://flussonic.izone.az:80/sonyturbo/index.m3u8
@@ -226,7 +226,7 @@ http://flussonic.izone.az:80/oxotoiribalka/index.m3u8
 http://flussonic.izone.az:80/domashniejivotnie/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="167", Зоопарк
 http://flussonic.izone.az:80/zoopark/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="172", Viasat Nature
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/viju-nature.png", Viju Nature
 http://flussonic.izone.az:80/viasatnature/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="46", VH1 Europe
 http://flussonic.izone.az:80/vh1europe/index.m3u8
@@ -242,7 +242,7 @@ http://flussonic.izone.az:80/shanson/index.m3u8
 http://flussonic.izone.az:80/extremesport/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Bridge TB
 http://flussonic.izone.az:80/bridgetv/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="171", Da Vinci Learning
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/da-vinci-learning.png", Da Vinci Learning
 http://flussonic.izone.az:80/davinchilearning/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="1571", CTC Love
 http://flussonic.izone.az:80/ctclove/index.m3u8
@@ -262,9 +262,9 @@ http://flussonic.izone.az:80/nostalgiya/index.m3u8
 http://flussonic.izone.az:80/vremya/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Ani TB
 http://flussonic.izone.az:80/anitv/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="43", Mezzo
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/mezzo.png", Mezzo
 http://flussonic.izone.az:80/mezzo/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="342", Кино тв 
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kino-tv.png", Кино тв 
 http://flussonic.izone.az:80/kinotv/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="175", Совершенно секретно
 http://flussonic.izone.az:80/sovershennosekretno/index.m3u8
@@ -320,8 +320,6 @@ http://flussonic.izone.az:80/rutv/index.m3u8
 http://flussonic.izone.az:80/animalplanet/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="183", Gulli Girl
 http://flussonic.izone.az:80/gulligirl/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="155", Viasat Sport
-http://flussonic.izone.az:80/viasatsport/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="1827", Бокс ТВ
 http://flussonic.izone.az:80/bokstv/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="178", Fox Life
@@ -332,7 +330,7 @@ http://flussonic.izone.az:80/lubimoekino/index.m3u8
 http://flussonic.izone.az:80/nauka/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="68", Дом кино
 http://flussonic.izone.az:80/domkino/index.m3u8
-#EXTINF:0 type="stream" group-title="Rusiya" channelId="165", Viasat Explorer
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/viju-explorer.png", Viju Explorer
 http://flussonic.izone.az:80/viasatexplorer/index.m3u8
 #EXTINF:0 type="stream" group-title="Rusiya" channelId="81", Матч! Боец
 http://flussonic.izone.az:80/boets/index.m3u8
