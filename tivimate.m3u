@@ -81,7 +81,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0 tvg-id="teve2.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/teve2.png",Teve 2
 https://streams.uzunmuhalefet.com/stream/44cff2e5-7871-40c8-b6d2-094572b4371a.m3u8
-#EXTINF:0 tvg-id="" group-title="Türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/2048px-Show_MAX_logo.svg.png",Show MAX
+#EXTINF:0 tvg-id="" group-title="Türkiye" tvg-logo="https://assets.uzunmuhalefet.com/logos/3005c68a-16db-436f-b1b9-1618d8bb05d8.png",Show MAX
 https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
 #EXTINF:0 tvg-id="360.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/360-tv.png",360 TV
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
@@ -99,9 +99,9 @@ http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="Euro.D.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/euro-d.png",Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:0 tvg-id="" group-title="Türkiye" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png",KANAL 7 Avrupa
+#EXTINF:0 tvg-id="" group-title="Türkiye" tvg-logo="https://assets.uzunmuhalefet.com/logos/9d451286-3aa1-44ca-9936-1a16d8550ed7.png",KANAL 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="Türkiye" tvg-logo="https://www.showturk.com.tr/images/core/showturk-v-1.svg?v=12",Show Türk
+#EXTINF:0 tvg-id="" group-title="Türkiye" tvg-logo="https://assets.uzunmuhalefet.com/logos/7b1e3f67-3dd8-427f-8d3c-f0d1b80e7961.png",Show Türk
 https://streams.uzunmuhalefet.com/stream/16e43b9b-e175-482c-a105-2253c06515c9.m3u8
 #EXTINF:0 tvg-id="TRT.Türk.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-turk.png",TRT Türk
 http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
