@@ -1,8 +1,8 @@
 #EXTM3U url-tvg=https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/arb-tv.png" group-title="Azərbaycan",ARB
-http://flussonic.izone.az/arb/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/arb-24.png" group-title="Azərbaycan",ARB 24
-https://stream.atv.az/HLS3/streams/arb24.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-24.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/arb-guenes.png" group-title="Azərbaycan",ARB Günəş
 http://flussonic.izone.az/arbgunesh/index.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/azad-azerbaycan.png" group-title="Azərbaycan",Azad Azərbaycan
