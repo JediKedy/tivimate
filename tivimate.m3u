@@ -14,19 +14,19 @@ https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/cbc-sport.png" group-title="Azərbaycan",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/cbc-azerbaijan.png" group-title="Azərbaycan",CBC TV
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/cbc.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/duenya-tv.png" group-title="Azərbaycan",Dünya TV
 http://flussonic.izone.az/dunyatv/index.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/ictimai-tv.png" group-title="Azərbaycan",İctimai TV
 https://live.itv.az/itv.m3u8
 #EXTINF:1  tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/idman-tv.png" group-title="Azərbaycan",İdman TV
-https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
+https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/kanal-s.png" group-title="Azərbaycan",Kanal S
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/kanal-s.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/kepez-tv.png" group-title="Azərbaycan",Kəpəz TV
 http://85.132.78.122:8050/dashjs/stream/index.mpd
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/medeniyyet-tv.png" group-title="Azərbaycan",Mədəniyyət TV
-https://str2.yodacdn.net/meden_300_to_small/index.m3u8
+https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/mtv-azerbaycan.png" group-title="Azərbaycan",MTV Azərbaycan
 http://flussonic.izone.az/muztvaz/index.m3u8
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/real-tv.png" group-title="Azərbaycan",Real TV
@@ -43,11 +43,11 @@ http://flussonic.izone.az/xezertv/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/m6CM7VU.png" group-title="Azərbaycan",Alvin Channel
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/2CSW4V4.png" group-title="Azərbaycan",APA TV
-http://rtmp.apa.tv/@pagroup!23.m3u8
+http://stream.apa.tv/apastream/video1_stream.m3u8
 #EXTINF:1 tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="Azərbaycan",AYAZ TV
 https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
 #EXTINF:1 tvg-logo="https://gunaz.tv/frontend/images/logo.png" group-title="Azərbaycan",GunAz TV
-https://2meet.az/live/livestream.flv
+https://tv.gunaz.tv/hls/live.m3u8
 #EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" group-title="Azərbaycan",Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2" group-title="Azərbaycan",Naxçıvan TV
