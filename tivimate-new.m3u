@@ -1,0 +1,392 @@
+#EXTM3U url-tvg=https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/arb-tv.png" group-title="Azərbaycan",ARB
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/arb-24.png" group-title="Azərbaycan",ARB 24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/arb-24.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/arb-guenes.png" group-title="Azərbaycan",ARB Günəş
+http://flussonic.izone.az/arbgunesh/index.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/azad-azerbaycan.png" group-title="Azərbaycan",Azad Azərbaycan
+http://flussonic.izone.az/azadazerbaycan/index.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/aztv.png" group-title="Azərbaycan",AzTV
+http://flussonic.izone.az/aztv/index.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/baku-tv.png" group-title="Azərbaycan",Baku TV
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/cbc-sport.png" group-title="Azərbaycan",CBC Sport
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/cbc-azerbaijan.png" group-title="Azərbaycan",CBC TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/cbc.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/duenya-tv.png" group-title="Azərbaycan",Dünya TV
+http://flussonic.izone.az/dunyatv/index.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/ictimai-tv.png" group-title="Azərbaycan",İctimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:1  tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/idman-tv.png" group-title="Azərbaycan",İdman TV
+https://str.yodacdn.net/azertv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/kanal-s.png" group-title="Azərbaycan",Kanal S
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/kepez-tv.png" group-title="Azərbaycan",Kəpəz TV
+http://85.132.78.122:8050/dashjs/stream/index.mpd
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/medeniyyet-tv.png" group-title="Azərbaycan",Mədəniyyət TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/medeniyet-tv.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/mtv-azerbaycan.png" group-title="Azərbaycan",MTV Azərbaycan
+http://flussonic.izone.az/muztvaz/index.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/real-tv.png" group-title="Azərbaycan",Real TV
+http://flussonic.izone.az/realtv/index.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/space-tv.png" group-title="Azərbaycan",Space TV
+http://flussonic.izone.az/spacetv/index.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/tmb-tv-azerbaijan.png" group-title="Azərbaycan",TMB TV Azərbaycan
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/az/xezer-tv.png" group-title="Azərbaycan",Xəzər TV
+http://flussonic.izone.az/xezertv/index.m3u8
+#EXTINF:1 tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="Azərbaycan",AYAZ TV
+https://janya-ayaztv.vgcdn.net/ptnr-ayaztv/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_2500k.m3u8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/WwcFsUtH_mDpP7AEt06jtWZ4aK2FpGDO5Loddc1USEyihQKlKFgr6I23X7kRjGUO8w" group-title="Azərbaycan",Live TV
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:1 tvg-logo="https://ntv.az/assets/images/logo.png?v=2" group-title="Azərbaycan",Naxçıvan TV
+https://str.yodacdn.net/ntv/index.m3u8
+#EXTINF:1 tvg-logo="https://i.imgur.com/Je2DGSG.jpg" group-title="Azərbaycan",Show Plus TV
+https://rtmp.showplus.tv/hls/myshow.m3u8
+
+
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-1.png" tvg-url="https://www.trt1.com.tr/" tvg-id="TRT1.tr",TRT 1
+https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.imgur.com/Blekh8p.png" tvg-url="https://www.atv.com.tr/" tvg-id="ATV.tr",ATV
+https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
+#EXTINF:0 tvg-id="a2.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/a2-tr.png",A2 TV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" tvg-url="https://www.nowtv.com.tr/" tvg-id="NOWTV.tr",NOW TV
+https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
+#EXTINF:0 tvg-id="Star.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/star.png",Star TV
+https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
+#EXTINF:0 tvg-id="Show.TV.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/show-tv.png",Show TV
+https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
+#EXTINF:0 tvg-id="Kanal.D.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/kanal-d.png",Kanal D
+http://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://i.imgur.com/zYziGXN.png" tvg-url="https://www.tv8.com.tr/" tvg-id="TV8.tr",TV8
+https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8
+#EXTINF:0 tvg-id="" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/tv-8-int.png",TV 8 INT
+http://flussonic.izone.az/tv8int/index.m3u8
+#EXTINF:0 tvg-id="TV.8.5.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/tv8-5.png",TV 8.5
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:0 tvg-id="Beyaz.TV.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/beyaz.png",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:0 tvg-id="Kanal.7.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/kanal-7.png",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:0 tvg-id="teve2.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/teve2.png",Teve 2
+https://streams.uzunmuhalefet.com/stream/44cff2e5-7871-40c8-b6d2-094572b4371a.m3u8
+#EXTINF:0 tvg-id="" group-title="Türkiye" tvg-logo="https://assets.uzunmuhalefet.com/logos/3005c68a-16db-436f-b1b9-1618d8bb05d8.png",Show MAX
+https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
+#EXTINF:0 tvg-id="360.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/360-tv.png",360 TV
+http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:0 tvg-id="TV4.tr" group-title="Türkiye" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114",TV4
+http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0 tvg-id="DMAX.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/dmax.png",DMAX
+https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8
+#EXTINF:0 tvg-id="TLC.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/tlc-tr.png",TLC
+https://streams.uzunmuhalefet.com/stream/7c98bf26-69a3-4f45-a330-d7c27459b375.m3u8
+#EXTINF:-1 group-title="Belgesel" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-belgesel.png" tvg-url="https://www.trtbelgesel.com.tr/" tvg-id="TRTBelgesel.tr",TRT Belgesel
+https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
+#EXTINF:0 tvg-id="TRT.Çocuk.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-cocuk.png",TRT Çocuk
+http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="TRT.World.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-world.png",TRT World
+http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="Euro.D.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/euro-d.png",Euro D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:0 tvg-id="" group-title="Türkiye" tvg-logo="https://assets.uzunmuhalefet.com/logos/9d451286-3aa1-44ca-9936-1a16d8550ed7.png",KANAL 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:0 tvg-id="" group-title="Türkiye" tvg-logo="https://assets.uzunmuhalefet.com/logos/7b1e3f67-3dd8-427f-8d3c-f0d1b80e7961.png",Show Türk
+https://streams.uzunmuhalefet.com/stream/16e43b9b-e175-482c-a105-2253c06515c9.m3u8
+#EXTINF:0 tvg-id="TRT.Türk.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-turk.png",TRT Türk
+http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="TRT.Müzik.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-muzik.png",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="TRT.Spor.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-sport.png",TRT Spor
+http://flussonic.izone.az/trtspor/index.m3u8
+#EXTINF:0 tvg-id="Cartoon.Network.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/cartoon-network-tr.png",Cartoon Network Türkiye
+https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8
+#EXTINF:0 tvg-id="Minika.Go.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/minika-go.png",Minika Go
+https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3u8
+
+#EXTINF:0 group-title="Rusiya", Матч! Арена
+http://flussonic.izone.az:80/matcharena/index.m3u8
+#EXTINF:0 group-title="Rusiya", Матч! Страна
+http://flussonic.izone.az:80/nashsport/mono.m3u8
+#EXTINF:0 group-title="Rusiya", Футбол
+http://flussonic.izone.az:80/futbol/index.m3u8
+#EXTINF:0 group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/eurosport-1.png",Eurosport 1
+http://flussonic.izone.az:80/eurosport/index.m3u8
+#EXTINF:0 group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/eurosport-2.png",EuroSport 2
+http://flussonic.izone.az:80/eurosport2/index.m3u8
+#EXTINF:0 group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/euronews.png",EuroNews
+http://flussonic.izone.az:80/euronews/mono.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rbk.png",РБК
+http://flussonic.izone.az:80/rbk/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rossiya-1.png",Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rossiya-24.png",Россия 24
+http://flussonic.izone.az:80/rosiyya24/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rossiya-k.png", Pоссия К
+http://flussonic.izone.az:80/rossiakultura/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://a-russia.ru/wp-content/uploads/2015/12/rtr-logo-65.jpg", PTP Планета
+http://flussonic.izone.az:80/rtrplaneta/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/zvezda.png", звезда
+http://flussonic.izone.az:80/zvezda/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tv-3.png"", TB-3
+http://flussonic.izone.az:80/tv3/mono.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/che.png", Че
+http://flussonic.izone.az:80/ce/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/ren-tv-international.png", РЕН ТВ
+http://flussonic.izone.az:80/rentv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/mir.png", Мир тв
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/mir-24.png", Мир 24
+https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="312", Мир сериала
+http://flussonic.izone.az:80/mirseriala/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tnt.png", THT
+http://flussonic.izone.az:80/tnt/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tnt4.png", THT4
+http://flussonic.izone.az:80/tntcomedy/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/stsi.png", CTC
+http://flussonic.izone.az:80/ctc/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="21", Домашний
+http://flussonic.izone.az:80/domashniy/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="23", Ю-TB
+http://flussonic.izone.az:80/yutv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="26", Пятница!
+http://flussonic.izone.az:80/pyatnicha/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="7", 5 канал 
+http://flussonic.izone.az:80/5kanal/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="13", ТВ Центр
+http://flussonic.izone.az:80/tvc/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/russkiy-illyuzion.png", Русский Иллюзион
+http://flussonic.izone.az:80/russkiyiluzion/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tv-1000-russkoe-kino.png", TV1000 Русское кино
+http://flussonic.izone.az:80/tv1000ruskoekino/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" ctvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tv1000.png", TV1000
+http://flussonic.izone.az:80/tv1000/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/viju-megahit.png", Viju Megahit
+http://erlyvideo.izone.az/VIPMegahitHD/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tv1000-action.png", TV1000 Action
+http://flussonic.izone.az:80/tv1000action/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/viju-premer.png", Viju Premiere
+http://erlyvideo.izone.az/VIPPremiereHD/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/viju-comedy.png", Viju Comedy
+http://erlyvideo.izone.az/VIPComedyHD/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/indiyskoe-kino.png", Индийское кино
+http://flussonic.izone.az:80/indiskoekino/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinokomediya.png", Кинокомедия
+http://flussonic.izone.az:80/kinokomedia/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinosvidanie.png", Киносвидание
+http://flussonic.izone.az:80/kinosvidanie/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinohit.png", Кинохит
+http://flussonic.izone.az:80/kinoxit/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinomiks.png", Киномикс
+http://flussonic.izone.az:80/kinomiks/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/nashe-novoe-kino.png", Наше новое Кино
+http://flussonic.izone.az:80/nashenovoekino/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/muzhskoe-kino.png", Мужское кино
+http://flussonic.izone.az:80/mkino/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinoseriya.png", Киносерия
+http://flussonic.izone.az:80/kinoseria/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinosemya.png", Киносемья
+http://flussonic.izone.az:80/kinosemya/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rodnoe-kino.png", Родное кино
+http://flussonic.izone.az:80/rodnoekino/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kinopremera.png", Кинопремьера HD
+http://erlyvideo.izone.az:80/kinopremerahd/index.m3u8 
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/telekanal-evrokino.png", Еврокино
+http://flussonic.izone.az:80/eurokino/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="913", Amedia 1
+http://flussonic.izone.az:80/amedia1/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="914", Amedia 2
+http://flussonic.izone.az:80/amedia2/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="1455", History Channel
+http://flussonic.izone.az:80/history/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/viju-history.png", Viju History
+http://flussonic.izone.az:80/viasathistory/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rtg.png", RTG
+http://flussonic.izone.az:80/rtg/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/discovery-channel.png", Discovery Channel
+http://flussonic.izone.az:80/discoverychannel/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/zhivaya-planeta.png", живая Планета
+http://flussonic.izone.az:80/jivayaplaneta/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/ohota-i-rybalka.png", Охота и рыбалка
+http://flussonic.izone.az:80/oxotoiribalka/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/domashnie-zhivotnye.png", Домашние животные
+http://flussonic.izone.az:80/domashniejivotnie/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="167", Зоопарк
+http://flussonic.izone.az:80/zoopark/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/viju-nature.png", Viju Nature
+http://flussonic.izone.az:80/viasatnature/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="46", MTV 00s
+http://flussonic.izone.az:80/vh1europe/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya", Муз ТВ
+http://flussonic.izone.az:80/muztv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/muzyka-pervogo.png", Музыка Первого
+http://flussonic.izone.az:80/muzika1/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/shanson.png", Шансон ТВ
+http://flussonic.izone.az:80/shanson/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/extreme-sports.png", Extreme Sports
+http://flussonic.izone.az:80/extremesport/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/bridzh-tv.png", Bridge TB
+http://flussonic.izone.az:80/bridgetv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/da-vinci-learning.png", Da Vinci Learning
+http://flussonic.izone.az:80/davinchilearning/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tlc.png", TLC
+http://flussonic.izone.az:80/tlc/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/id.png", Investigation Discovery
+http://flussonic.izone.az:80/idextra/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="150", Ля минор
+http://flussonic.izone.az:80/lyaminor/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="149", VH1 Classic
+http://flussonic.izone.az:80/vh1classic/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/nostalgiya.png", Ностальгия
+http://flussonic.izone.az:80/nostalgiya/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/vremya.png", Время
+http://flussonic.izone.az:80/vremya/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Ani TB
+http://flussonic.izone.az:80/anitv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/mezzo.png", Mezzo
+http://flussonic.izone.az:80/mezzo/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/kino-tv.png", Кино тв 
+http://flussonic.izone.az:80/kinotv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/sovershenno-sekretno.png", Совершенно секретно
+http://flussonic.izone.az:80/sovershennosekretno/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="174", Кто есть кто
+http://flussonic.izone.az:80/ktoestkto/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="887", История
+http://flussonic.izone.az:80/istoriya/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", 24 Док
+http://flussonic.izone.az:80/24dok/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="161", Телекафе
+http://flussonic.izone.az:80/telekafe/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="42", Европа Плюс ТВ
+http://flussonic.izone.az:80/europaplus/index.m3u8
+#EXTINF: type="stream" group-title="Rusiya" channelId="325", загородная жизнь
+http://flussonic.izone.az:80/zaqorodnayajizn/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="177", КИНЕКО
+http://flussonic.izone.az:80/foxrussia/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/khl-tv.png", KHL TV
+http://flussonic.izone.az:80/kxltv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Детский
+http://flussonic.izone.az:80/detskiy/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="272", НСТВ
+http://flussonic.izone.az:80/nst/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/illyuzion.png", Иллюзион+
+http://flussonic.izone.az:80/illuzion/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="303", Русский Бестселлер
+http://flussonic.izone.az:80/russkiybetseller/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="54", FilmBOX Arthouse
+http://flussonic.izone.az:80/travelchannel/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/365-dney.png", 365 дней
+http://flussonic.izone.az:80/365dney/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/2-x-2.png", 2x2
+http://flussonic.izone.az:80/2x2/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="193", TV XXI
+http://flussonic.izone.az:80/tv21/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/zhara-tv.png",ЖАРА ТВ
+http://flussonic.izone.az:80/stv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/moya-planeta.png", Моя Планета
+http://flussonic.izone.az:80/moyaplaneta/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="191", Jim Jam
+http://flussonic.izone.az:80/jimjam/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="75", Кухня ТВ
+http://flussonic.izone.az:80/kuxnyatv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/detskiy-mir.png", Детский Мир
+http://flussonic.izone.az:80/detskiymir/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="915", Amedia Premium
+http://flussonic.izone.az:80/AmediaPremium/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/ru-tv.png", Ru TV 
+http://flussonic.izone.az:80/rutv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/animal-planet.png", Animal Planet
+http://flussonic.izone.az:80/animalplanet/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="183", Gulli Girl
+http://flussonic.izone.az:80/gulligirl/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="1827", Бокс ТВ
+http://flussonic.izone.az:80/bokstv/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/sapfir.png",Сапфир ТВ
+http://flussonic.izone.az:80/foxlife/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="314", любимое кино
+http://flussonic.izone.az:80/lubimoekino/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="173", Наука 2.0
+http://flussonic.izone.az:80/nauka/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/dom-kino.png", Дом кино
+http://flussonic.izone.az:80/domkino/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/viju-explorer.png", Viju Explorer
+http://flussonic.izone.az:80/viasatexplorer/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="81", Матч! Боец
+http://flussonic.izone.az:80/boets/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="-1", Tiji
+http://flussonic.izone.az:80/tiji/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="76", живи!
+http://flussonic.izone.az:80/jivi/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="44", MCM Тор
+http://flussonic.izone.az:80/mcmtop/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="162", 24 Техно
+http://flussonic.izone.az:80/24texno/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="181", Парк Развлечений
+http://flussonic.izone.az:80/parkrasvleceniy/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="198", Русский Роман
+http://flussonic.izone.az:80/russkiyroman/index.m3u8
+#EXTINF:0 type="stream" group-title="Rusiya" channelId="186", Мультимания
+http://flussonic.izone.az:80/multmania/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/90FM_Ictimai_logo_1.png" group-title="Radio / Azərbaycan",İctimai Radio 90FM
+https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_respublica_logo.png" group-title="Radio / Azərbaycan",Azərbaycan Radiosu
+https://str.yodacdn.net/radio_respublica/tracks-a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://yodaplayer.yodacdn.net/testaztv/radio_int_logo.png" group-title="Radio / Azərbaycan",Beynəlxalq Radio
+https://str.yodacdn.net/radio_int/tracks-a1/mono.m3u8
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/yurd-fm-az.webp" group-title="Radio / Azərbaycan",Yurd FM
+https://icecast.livetv.az/yurdfm
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/yurd-fm-az.webp" group-title="Radio / Azərbaycan",Yurd FM (Camera)
+https://restreamer.livetv.az/memfs/a6cecb21-e17c-4f32-8854-0b72d57211d8.m3u8
+#EXTINF:1 tvg-logo="http://bakuretrofm.az/wp-content/uploads/2023/03/Baku_retro_fm_2.png" group-title="Radio / Azərbaycan",Baku Retro FM
+http://5.191.241.101:8000/bakuretrofm
+#EXTINF:1 tvg-logo="http://bakuhitfm.az/wp-content/uploads/2023/03/Baku_hit_fm_2.png" group-title="Radio / Azərbaycan",Baku Hit FM
+http://5.191.241.101:8000/bakuhitfm
+#EXTINF:1 tvg-logo="https://asanradio.az/photos/341098_1491724822_logo.png" group-title="Radio / Azərbaycan",ASAN Radio
+http://94.20.74.206:4448/stream1
+#EXTINF:1 tvg-logo="https://islamevi.az/app/storage/2023/06/media-tmb-radio-rfe7hs.png" group-title="Radio / Azərbaycan",Radio TMB
+https://s39.myradiostream.com/5458/listen.mp3
+#EXTINF:1 tvg-logo="https://enerjifm.az/templates/default/images/logo.png" group-title="Radio / Azərbaycan",Radio Enerji
+https://icecast.livetv.az/antennfm
+#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2021-12/1639143011_xezer-fm-big-radio_org.png" group-title="Radio / Azərbaycan",Xəzər FM
+https://s40.myradiostream.com/:22546/listen.mp3
+#EXTINF:1 tvg-logo="https://www.arazfm.az/assets/araz_logo@300x.png" group-title="Radio / Azərbaycan",Araz FM
+http://s14.myradiostream.com:30454/listen.mp3
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" group-title="Radio / Azərbaycan",MEDİA FM
+https://icecast.livetv.az/mediafm
+#EXTINF:1 tvg-logo="https://topradio.me/assets/image/radio/100/media-fm.webp" group-title="Radio / Azərbaycan",MEDİA FM (Camera)
+https://restreamer.livetv.az/memfs/a2076877-77f5-46f4-9b26-2396fbed8d82.m3u8
+#EXTINF:1 tvg-logo="https://avtofm.az/assets/images/logo_image.png" group-title="Radio / Azərbaycan",Avto FM
+http://5.191.241.101:8000/avtofm
+#EXTINF:1 tvg-logo="https://anspress.com//anschm-bl.png" group-title="Radio / Azərbaycan",ANS ÇM Radio
+https://live.ansradio.ws:8443/mp3_128
+#EXTINF:1 tvg-logo="https://radio.ntv.az/images/logo.png" group-title="Radio / Azərbaycan",Naxçıvan Radiosu
+http://s33.myradiostream.com:12782/;stream.nsv
+#EXTINF:1 tvg-logo="https://www.radioguide.fm/uploads/images/radiostation/big(735px).png" group-title="Radio / Azərbaycan",Radio Vətən
+https://stream.zenolive.com/0kgkkzanmueuv
+#EXTINF:1 tvg-logo="https://lh6.googleusercontent.com/proxy/-Er9aMecZFXbKxGJG2TkHCy2G6W6aoqGEc-rwwpb5cehQuCPTgxEkLRg2kCAmMXfejjmATo7L6I" group-title="Radio / Azərbaycan",Kəpəz FM
+http://85.132.78.122:3344/now
+#EXTINF:1 tvg-logo="https://radio.autoliferadio.com:8080/media/servers/alr_logo_gold-3.png" group-title="Radio / Azərbaycan",AutoLife FM
+https://radio.autoliferadio.com:8005/radio
+#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2021-04/1618290684_viva-fm-azerbaijan-big-radio_org.png" group-title="Radio / Azərbaycan",VIVA FM Azərbaycan
+https://stream-48.zeno.fm/tbfu8vxb84zuv?zs=DTScpNhKRyCdI9pB5bME3Q
+#EXTINF:1 tvg-logo="https://www.day.az/assets/images/logo.svg" group-title="Radio / Azərbaycan",Day.Az Radio
+https://radio.day.az:9443/128m
+#EXTINF:1 tvg-logo="https://big-radio.net/uploads/posts/2022-06/dance-fm.webp" group-title="Radio / Azərbaycan",DANCE FM
+http://557e041d4bdc.sn.mynetname.net:8000/onefm?nc=0.09925802230680558
+#EXTINF:1 tvg-logo="https://cdn-profiles.tunein.com/s263460/images/logoq.png" group-title="Radio / Azərbaycan",Baku Jukebox
+http://78.109.52.73:8000/bkjbox
+#EXTINF:1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/129984.v3.png" group-title="Radio / Azərbaycan",Ağdam Radio
+https://a2.asurahosting.com:6650/radio.mp3
+#EXTINF:1 tvg-logo="https://yoda.az/logos/106fm.png" group-title="Radio / Azərbaycan",106 FM (Camera)
+https://stream.atv.az/WebRTCAppEE/streams/612758375034657638703581_adaptive.m3u8
+#EXTINF:1 tvg-logo="https://106-3fm.az/assets/images/106-3-white.png?v=3" group-title="Radio / Azərbaycan",106.3 FM (Camera)
+https://stream.atv.az/WebRTCAppEE/streams/517878792239218486180700_adaptive.m3u8
+#EXTINF:1 tvg-logo="https://top-radio.ru/assets/image/radio/180/saglam-radio.jpg" group-title="Radio / Azərbaycan",Sağlam Radio
+https://s24.myradiostream.com/:17446/listen.mp3
+
+#EXTINF:0 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="Global" channelId="58", Discovery Science
+http://flussonic.izone.az:80/discoveryscience/index.m3u8
