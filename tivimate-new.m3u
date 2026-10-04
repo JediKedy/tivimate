@@ -48,7 +48,7 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:0 tvg-id="TRT.1.tr" type="stream" group-title="Türkiye" logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-1.png", TRT 1
 http://flussonic.izone.az/trt1/index.m3u8
 #EXTINF:0 tvg-id="ATV.tr" type="stream" group-title="Türkiye" logo="https://i.imgur.com/Blekh8p.png", ATV
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+http://flussonic.izone.az/atvturk/index.m3u8
 #EXTINF:0 tvg-id="a2.tr" type="stream" group-title="Türkiye" logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png", A2 TV
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:0 tvg-id="NOW.tr" type="stream" group-title="Türkiye" logo="https://i.ibb.co/QvTPfhs/now.png", NOW TV
