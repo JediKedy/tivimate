@@ -1,121 +1,81 @@
-#EXTM3U
-
+#EXTM3U url-tvg=https://jedikedy.github.io/az-epg/epg.xml
 #EXTINF:-1 tvg-id="azertv" tvg-name="AZTV" tvg-logo="https://yoda.az/logos/aztv.svg" group-title="Azərbaycan TV",AZTV
 https://str.yodacdn.net/azertv/video.m3u8
-
 #EXTINF:-1 tvg-id="xazartv" tvg-name="XƏZƏR" tvg-logo="https://yoda.az/logos/xazar.png" group-title="Azərbaycan TV",XƏZƏR
 https://str.yodacdn.net/xazartv/video.m3u8
-
 #EXTINF:-1 tvg-id="ictimaitele" tvg-name="İctimai" tvg-logo="https://yoda.az/logos/itv.png" group-title="Azərbaycan TV",İctimai
 https://str.yodacdn.net/ictimaitele/video.m3u8
-
 #EXTINF:-1 tvg-id="bakutv" tvg-name="Baku TV" tvg-logo="https://yoda.az/logos/bakutv.webp" group-title="Azərbaycan TV",Baku TV
 https://str.yodacdn.net/bakutv/video.m3u8
-
 #EXTINF:-1 tvg-id="idmantele" tvg-name="İdman TV" tvg-logo="https://yoda.az/logos/idman.svg" group-title="İdman",İdman TV
 https://str.yodacdn.net/idmantele/video.m3u8
-
 #EXTINF:-1 tvg-id="biznestv" tvg-name="BIZNES TV" tvg-logo="https://yoda.az/logos/biznestv.png" group-title="Azərbaycan TV",BIZNES TV
 https://str.yodacdn.net/biznestv/video.m3u8
-
 #EXTINF:-1 tvg-id="ntv" tvg-name="Naxçıvan  TV" tvg-logo="https://yoda.az/logos/ntv.png" group-title="Regional TV",Naxçıvan  TV
 https://str.yodacdn.net/ntv/video.m3u8
-
 #EXTINF:-1 tvg-id="real" tvg-name="Real TV" tvg-logo="https://yoda.az/logos/real.svg" group-title="Xəbər",Real TV
 https://str.yodacdn.net/real/video.m3u8
-
 #EXTINF:-1 tvg-id="qafkaz" tvg-name="Qafqaz TV" tvg-logo="https://yoda.az/logos/qafqaz.svg" group-title="Azərbaycan TV",Qafqaz TV
 https://str.yodacdn.net/qafkaz/video.m3u8
-
 #EXTINF:-1 tvg-id="atv" tvg-name="ATV" tvg-logo="https://yoda.az/logos/atv.svg" group-title="Azərbaycan TV",ATV
 https://str.yodacdn.net/atv/video.m3u8
-
 #EXTINF:-1 tvg-id="arb24" tvg-name="ARB24" tvg-logo="https://yoda.az/logos/arb24.svg" group-title="Xəbər",ARB24
 https://str.yodacdn.net/arb24/video.m3u8
-
 #EXTINF:-1 tvg-id="apatv" tvg-name="APA TV" tvg-logo="https://yoda.az/logos/apatv.png" group-title="Xəbər",APA TV
 https://str.yodacdn.net/apatv/video.m3u8
-
 #EXTINF:-1 tvg-id="haberglobal" tvg-name="Haber Global" tvg-logo="https://yoda.az/logos/haber.png" group-title="Xəbər",Haber Global
 https://str.yodacdn.net/haberglobal/video.m3u8
-
 #EXTINF:-1 tvg-id="tmbtr" tvg-name="TMB TV" tvg-logo="https://yoda.az/logos/tmb.png" group-title="Musiqi",TMB TV
 https://str.yodacdn.net/tmbtr/video.m3u8
-
 #EXTINF:-1 tvg-id="tmbaz" tvg-name="TMB Azərbaycan" tvg-logo="https://yoda.az/logos/tmb.png" group-title="Musiqi",TMB Azərbaycan
 https://str.yodacdn.net/tmbaz/video.m3u8
-
 #EXTINF:-1 tvg-id="arb" tvg-name="ARB" tvg-logo="https://yoda.az/logos/arb.svg" group-title="Azərbaycan TV",ARB
 https://str.yodacdn.net/arb/video.m3u8
-
 #EXTINF:-1 tvg-id="start" tvg-name="Kanal S" tvg-logo="https://yoda.az/logos/start.png" group-title="Regional TV",Kanal S
 https://str.yodacdn.net/start/video.m3u8
-
 #EXTINF:-1 tvg-id="kanal35" tvg-name="Kanal 35" tvg-logo="https://yoda.az/logos/kanal35.png" group-title="Regional TV",Kanal 35
 https://str.yodacdn.net/kanal35/index.m3u8
-
 #EXTINF:-1 tvg-id="eltv" tvg-name="ELTV" tvg-logo="https://yoda.az/logos/eltv_logo.png" group-title="Regional TV",ELTV
 https://str.yodacdn.net/eltv/video.m3u8
-
 #EXTINF:-1 tvg-id="arbgunesh" tvg-name="ARB GÜNƏŞ" tvg-logo="https://yoda.az/logos/gunesh.svg" group-title="Uşaq",ARB GÜNƏŞ
 https://str.yodacdn.net/arbgunesh/video.m3u8
-
 #EXTINF:-1 tvg-id="cbc" tvg-name="CBC" tvg-logo="https://yoda.az/logos/cbc.svg" group-title="Azərbaycan TV",CBC
 https://str1.yodacdn.net/cbc/video.m3u8
-
 #EXTINF:-1 tvg-id="medeniyyettele" tvg-name="Mədəniyyət" tvg-logo="https://yoda.az/logos/medeniyyet.svg" group-title="Mədəniyyət",Mədəniyyət
 https://str.yodacdn.net/medeniyyettele/video.m3u8
-
 #EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="https://yoda.az/logos/space.png" group-title="Azərbaycan TV",Space
 https://str.yodacdn.net/space/video.m3u8
-
 #EXTINF:-1 tvg-id="tmb" tvg-name="Vostok TV" tvg-logo="https://yoda.az/logos/vostok.png" group-title="Azərbaycan TV",Vostok TV
 https://str.yodacdn.net/tmb/video.m3u8
-
 #EXTINF:-1 tvg-id="showplus" tvg-name="Show Plus TV" tvg-logo="https://yoda.az/logos/showplus.png" group-title="Azərbaycan TV",Show Plus TV
 https://str.yodacdn.net/showplus/video.m3u8
-
 #EXTINF:-1 tvg-id="mtvaz" tvg-name="MTV Azerbaijan" tvg-logo="https://yoda.az/logos/mtv.png" group-title="Musiqi",MTV Azerbaijan
 https://str.yodacdn.net/mtvaz/video.m3u8
-
 #EXTINF:-1 tvg-id="shtv" tvg-name="SH TV" tvg-logo="https://yoda.az/logos/shtv.png" group-title="Azərbaycan TV",SH TV
 https://str.yodacdn.net/shtv/video.m3u8
-
 #EXTINF:-1 tvg-id="vip" tvg-name="VIP HD" tvg-logo="https://yoda.az/logos/viphd.png" group-title="Azərbaycan TV",VIP HD
 https://str.yodacdn.net/vip/video.m3u8
-
 #EXTINF:-1 tvg-id="dunyatv" tvg-name="Dunya TV" tvg-logo="https://yoda.az/logos/dunyatv.png" group-title="Regional TV",Dunya TV
 https://str.yodacdn.net/dunyatv/video.m3u8
-
 #EXTINF:-1 tvg-id="radio_respublica" tvg-name="Radio Resp. (105.0 FM)" tvg-logo="https://yoda.az/logos/aztvradio.png" radio="true" group-title="Radio",Radio Resp. (105.0 FM)
 https://str.yodacdn.net/radio_respublica/index.m3u8
-
 #EXTINF:-1 tvg-id="radio_asan" tvg-name="ASAN Radio" tvg-logo="https://yoda.az/logos/asanradio.png" radio="true" group-title="Radio",ASAN Radio
 https://str.yodacdn.net/radio_asan/index.m3u8
-
 #EXTINF:-1 tvg-id="radio_real" tvg-name="REAL RADIO" tvg-logo="https://yoda.az/logos/realradio.jpg" radio="true" group-title="Radio",REAL RADIO
 https://str.yodacdn.net/radio_real/index.m3u8
-
 #EXTINF:-1 tvg-id="naxcivanradio" tvg-name="Naxçıvan radiosu" tvg-logo="https://yoda.az/logos/radio_ntv.png" radio="true" group-title="Radio",Naxçıvan radiosu
 https://str.yodacdn.net/naxcivanradio/index.m3u8
-
 #EXTINF:-1 tvg-id="radio_burcfm" tvg-name="Radio TMB 100.5 FM" tvg-logo="https://yoda.az/logos/ferqli_logo.png" radio="true" group-title="Radio",Radio TMB 100.5 FM
 https://str.yodacdn.net/radio_burcfm/index.m3u8
-
 #EXTINF:-1 tvg-id="106fm" tvg-name="106 FM" tvg-logo="https://yoda.az/logos/106fm.png" radio="true" group-title="Radio",106 FM
 https://str.yodacdn.net/106fm/index.m3u8
-
 #EXTINF:-1 tvg-id="radio_mediafm" tvg-name="Media FM (105.5 FM)" tvg-logo="https://yoda.az/logos/mediafm.png" radio="true" group-title="Radio",Media FM (105.5 FM)
 https://str.yodacdn.net/radio_mediafm/index.m3u8
-
 #EXTINF:-1 tvg-id="radio_int" tvg-name="Radio Int." tvg-logo="https://yoda.az/logos/radio_int_logo.png" radio="true" group-title="Radio",Radio Int.
 https://str.yodacdn.net/radio_int/index.m3u8
-
 #EXTINF:-1 tvg-id="radio_ictimai" tvg-name="Radio İctimai (90.0 FM)" tvg-logo="https://yoda.az/logos/ictimai90fm.png" radio="true" group-title="Radio",Radio İctimai (90.0 FM)
 https://str.yodacdn.net/radio_ictimai/index.m3u8
-
 #EXTINF:-1 tvg-id="radio_anten" tvg-name="Radio Enerji (101.1 FM)" tvg-logo="https://yoda.az/logos/energy.png" radio="true" group-title="Radio",Radio Enerji (101.1 FM)
 https://str.yodacdn.net/radio_anten/index.m3u8
-
 #EXTINF:-1 tvg-id="biznesradio" tvg-name="Biznes TV Radio" tvg-logo="https://yoda.az/logos/biznestv.png" radio="true" group-title="Radio",Biznes TV Radio
 https://str.yodacdn.net/biznesradio/index.m3u8
