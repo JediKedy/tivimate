@@ -46,57 +46,57 @@ https://str.yodacdn.net/ntv/index.m3u8
 #EXTINF:1 tvg-logo="https://i.imgur.com/Je2DGSG.jpg" group-title="Azərbaycan",Show Plus TV
 https://rtmp.showplus.tv/hls/myshow.m3u8
 
-#EXTINF:1 tvg-id="TRT.1.tr" group-title="Türkiye" logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-1.png", TRT 1
+#EXTINF:1 tvg-id="TRT.1.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/trt-1.png", TRT 1
 http://flussonic.izone.az/trt1/index.m3u8
-#EXTINF:1 tvg-id="ATV.tr" group-title="Türkiye" logo="https://i.imgur.com/Blekh8p.png", ATV
+#EXTINF:1 tvg-id="ATV.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/Blekh8p.png", ATV
 http://flussonic.izone.az/atvturk/index.m3u8
-#EXTINF:1 tvg-id="a2.tr" group-title="Türkiye" logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/a-2.png", A2 TV
+#EXTINF:1 tvg-id="a2.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/a2-tr.png", A2 TV
 http://flussonic.izone.az/a2tv/index.m3u8
-#EXTINF:1 tvg-id="NOW.tr" group-title="Türkiye" logo="https://i.ibb.co/QvTPfhs/now.png", NOW TV
+#EXTINF:1 tvg-id="NOW.tr" group-title="Türkiye" tvg-logo="https://i.ibb.co/QvTPfhs/now.png", NOW TV
 http://flussonic.izone.az/nowtv/index.m3u8
-#EXTINF:1 tvg-id="Star.tr" group-title="Türkiye" logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/star.png", Star TV
+#EXTINF:1 tvg-id="Star.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/star.png", Star TV
 http://flussonic.izone.az/startv/index.m3u8
-#EXTINF:1 tvg-id="Show.TV.tr" group-title="Türkiye" logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/show-tv.png", Show TV
+#EXTINF:1 tvg-id="Show.TV.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/show-tv.png", Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:1 tvg-id="Kanal.D.tr" group-title="Türkiye" logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/kanal-d.png", Kanal D
+#EXTINF:1 tvg-id="Kanal.D.tr" group-title="Türkiye" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/kanal-d.png", Kanal D
 http://flussonic.izone.az/kanald/index.m3u8
-#EXTINF:1 tvg-id="TV8.tr" group-title="Türkiye" logo="https://i.imgur.com/zYziGXN.png", TV8
+#EXTINF:1 tvg-id="TV8.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/zYziGXN.png", TV8
 http://flussonic.izone.az/tv8/index.m3u8
 #EXTINF:1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/tv-8-int.png" tvg-name="TV 8 INT" group-title="Türkiye",TV 8 INT
 http://flussonic.izone.az/tv8int/index.m3u8
-#EXTINF:1 tvg-id="TV.8,5.tr" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/tv8-5.png" tvg-name="TV 8.5" group-title="Türkiye",TV 8.5 HD
+#EXTINF:1 tvg-id="TV.85.tr" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/tr/tv8-5.png" tvg-name="TV 8.5" group-title="Türkiye",TV 8.5 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:1 tvg-id="Beyaz.TV.tr" group-title="Türkiye" logo="https://m.beyaztv.com.tr/images/logo.png", Beyaz TV
+#EXTINF:1 tvg-id="Beyaz.TV.tr" group-title="Türkiye" tvg-logo="https://m.beyaztv.com.tr/images/logo.png", Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:1 tvg-id="Kanal.7.tr" group-title="Türkiye" logo="https://i.imgur.com/pxpLpnH.png", KANAL 7
+#EXTINF:1 tvg-id="Kanal.7.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/pxpLpnH.png", KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:1 tvg-id="teve2.tr" group-title="Türkiye" logo="https://s.teve2.com.tr/assets/img/teve2logo.png?v=1", Teve 2
+#EXTINF:1 tvg-id="teve2.tr" group-title="Türkiye" tvg-logo="https://s.teve2.com.tr/assets/img/teve2logo.png?v=1", Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:1 tvg-id="" group-title="Türkiye" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/2048px-Show_MAX_logo.svg.png", Show MAX
+#EXTINF:1 tvg-id="" group-title="Türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/2048px-Show_MAX_logo.svg.png", Show MAX
 http://canlitvulusal.xyz/live/showmax/index.m3u8
-#EXTINF:1 tvg-id="360.tr" group-title="Türkiye" logo="https://i.imgur.com/eXKohZ5.png", 360 TV
+#EXTINF:1 tvg-id="360.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/eXKohZ5.png", 360 TV
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-#EXTINF:1 tvg-id="TV4.tr" group-title="Türkiye" logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114", TV4
+#EXTINF:1 tvg-id="TV4.tr" group-title="Türkiye" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114", TV4
 http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:1 tvg-id="DMAX.tr" group-title="Türkiye" logo="https://i.imgur.com/WXj8YcR.png", DMAX
+#EXTINF:1 tvg-id="DMAX.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/WXj8YcR.png", DMAX
 http://flussonic.izone.az/ntvsport/index.m3u8
-#EXTINF:1 tvg-id="TLC.tr" group-title="Türkiye" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png", TLC
+#EXTINF:1 tvg-id="TLC.tr" group-title="Türkiye" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png", TLC
 http://flussonic.izone.az/tlcturk/index.m3u8
-#EXTINF:1 tvg-id="TRT.Belgesel.tr" group-title="Türkiye" logo="https://i.imgur.com/KLC5eOL.png", TRT Belgesel
+#EXTINF:1 tvg-id="TRT.Belgesel.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/KLC5eOL.png", TRT Belgesel
 http://flussonic.izone.az/trtbelgesel/index.m3u8
-#EXTINF:1 tvg-id="TRT.Çocuk.tr" group-title="Türkiye" logo="https://i.imgur.com/INCUbh5.png", TRT Çocuk
+#EXTINF:1 tvg-id="TRT.Çocuk.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/INCUbh5.png", TRT Çocuk
 http://flussonic.izone.az/trtcocuk/index.m3u8
-#EXTINF:1 tvg-id="TRT.World.tr" group-title="Türkiye" logo="https://i.imgur.com/8AmNMJE.png", TRT World
+#EXTINF:1 tvg-id="TRT.World.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/8AmNMJE.png", TRT World
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-#EXTINF:1 tvg-id="Euro.D.tr" group-title="Türkiye" logo="https://eurod.kanald.com.tr/assets/img/logo.v5.png", Euro D
+#EXTINF:1 tvg-id="Euro.D.tr" group-title="Türkiye" tvg-logo="https://eurod.kanald.com.tr/assets/img/logo.v5.png", Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
-#EXTINF:1 tvg-id="" group-title="Türkiye" logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png", KANAL 7 Avrupa
+#EXTINF:1 tvg-id="" group-title="Türkiye" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png", KANAL 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
-#EXTINF:1 tvg-id="" group-title="Türkiye" logo="https://www.showturk.com.tr/images/core/showturk-v-1.svg?v=12", Show Türk
+#EXTINF:1 tvg-id="" group-title="Türkiye" tvg-logo="https://www.showturk.com.tr/images/core/showturk-v-1.svg?v=12", Show Türk
 http://canlitvulusal.xyz/live/showturk/index.m3u8
-#EXTINF:1 tvg-id="TRT.Türk.tr" group-title="Türkiye" logo="https://www.trtturk.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trtturk_logo.png", TRT Türk
+#EXTINF:1 tvg-id="TRT.Türk.tr" group-title="Türkiye" tvg-logo="https://www.trtturk.com.tr/public/logo/d60ab555-f948-464a-a139-df5410d2a7b5/trtturk_logo.png", TRT Türk
 http://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:1 tvg-id="TRT.Müzik.tr" group-title="Türkiye" logo="https://i.imgur.com/R6nT0an.png", TRT Müzik
+#EXTINF:1 tvg-id="TRT.Müzik.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/R6nT0an.png", TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRT.Spor.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trtspor/webp/w170/h26/q75/19964450.png" group-title="Türkiye",TRT Spor
 http://flussonic.izone.az/trtspor/index.m3u8
@@ -115,7 +115,7 @@ http://flussonic.izone.az:80/rbk/index.m3u8
 http://flussonic.izone.az:80/rosiyya24/index.m3u8
 #EXTINF:1 group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/rossiya-k.png", Pоссия К
 http://flussonic.izone.az:80/rossiakultura/index.m3u8
-#EXTINF:1 group-title="Rusiya" tvg-logo="tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tv-3.png"", TB-3
+#EXTINF:1 group-title="Rusiya" tvg-logo="tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/tv-3.png", TB-3
 http://flussonic.izone.az:80/tv3/mono.m3u8
 #EXTINF:1 group-title="Rusiya" tvg-logo="https://raw.githubusercontent.com/JediKedy/tivimate/refs/heads/main/logos/ru/ren-tv-international.png", РЕН ТВ
 http://flussonic.izone.az:80/rentv/index.m3u8
