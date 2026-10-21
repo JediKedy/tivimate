@@ -5,7 +5,7 @@ http://flussonic.izone.az/arb/index.m3u8
 http://flussonic.izone.az/arb24/index.m3u8
 #EXTINF:1 tvg-id="arbgunesh" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/arb-guenes.png" group-title="Azərbaycan",ARB Günəş
 http://flussonic.izone.az/arbgunesh/index.m3u8
-#EXTINF:1 tvg-id="atv" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/azad-azerbaycan.png" group-title="Azərbaycan",Azad Azərbaycan
+#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/azad-azerbaycan.png" group-title="Azərbaycan",Azad Azərbaycan
 http://flussonic.izone.az/azadazerbaycan/index.m3u8
 #EXTINF:1 tvg-id="azertv" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/aztv.png" group-title="Azərbaycan",AzTV
 http://flussonic.izone.az/aztv/index.m3u8
@@ -41,7 +41,7 @@ http://flussonic.izone.az/xezertv/index.m3u8
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/live-tv.png" group-title="Azərbaycan",Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:1 tvg-id="ntv" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/ntv.png" group-title="Azərbaycan",Naxçıvan TV
+#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/ntv.png" group-title="Azərbaycan",Naxçıvan TV
 https://str.yodacdn.net/ntv/index.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/showplus-tv.png" group-title="Azərbaycan",Show Plus TV
 https://rtmp.showplus.tv/hls/myshow.m3u8
