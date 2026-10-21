@@ -1,47 +1,47 @@
 #EXTM3U url-tvg=https://jedikedy.github.io/az-epg/epg.xml, https://jedikedy.github.io/az-epg/epg_tr.xml
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/arb-tv.png" group-title="Azərbaycan",ARB
+#EXTINF:1 tvg-id="arb" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/arb-tv.png" group-title="Azərbaycan",ARB
 http://flussonic.izone.az/arb/index.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/arb-24.png" group-title="Azərbaycan",ARB 24
+#EXTINF:1 tvg-id="arb24" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/arb-24.png" group-title="Azərbaycan",ARB 24
 http://flussonic.izone.az/arb24/index.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/arb-guenes.png" group-title="Azərbaycan",ARB Günəş
+#EXTINF:1 tvg-id="arbgunesh" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/arb-guenes.png" group-title="Azərbaycan",ARB Günəş
 http://flussonic.izone.az/arbgunesh/index.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/azad-azerbaycan.png" group-title="Azərbaycan",Azad Azərbaycan
+#EXTINF:1 tvg-id="atv" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/azad-azerbaycan.png" group-title="Azərbaycan",Azad Azərbaycan
 http://flussonic.izone.az/azadazerbaycan/index.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/aztv.png" group-title="Azərbaycan",AzTV
+#EXTINF:1 tvg-id="azertv" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/aztv.png" group-title="Azərbaycan",AzTV
 http://flussonic.izone.az/aztv/index.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/baku-tv.png" group-title="Azərbaycan",Baku TV
+#EXTINF:1 tvg-id="bakutv" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/baku-tv.png" group-title="Azərbaycan",Baku TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/cbc-sport.png" group-title="Azərbaycan",CBC Sport
 https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/cbc-azerbaijan.png" group-title="Azərbaycan",CBC TV
+#EXTINF:1 tvg-id="cbc" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/cbc-azerbaijan.png" group-title="Azərbaycan",CBC TV
 http://flussonic.izone.az/cbc/index.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/duenya-tv.png" group-title="Azərbaycan",Dünya TV
 http://flussonic.izone.az/dunyatv/index.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/ictimai-tv.png" group-title="Azərbaycan",İctimai TV
+#EXTINF:1 tvg-id="ictimaitele" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/ictimai-tv.png" group-title="Azərbaycan",İctimai TV
 https://live.itv.az/itv.m3u8
-#EXTINF:1  tvg-logo="https://jedikedy.github.io/tivimate/logos/az/idman-tv.png" group-title="Azərbaycan",İdman TV
+#EXTINF:1 tvg-id="idmantele" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/idman-tv.png" group-title="Azərbaycan",İdman TV
 https://str.yodacdn.net/idmantele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/kanal-s.png" group-title="Azərbaycan",Kanal S
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/kepez-tv.png" group-title="Azərbaycan",Kəpəz TV
 http://85.132.78.122:8050/dashjs/stream/index.mpd
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/medeniyyet-tv.png" group-title="Azərbaycan",Mədəniyyət TV
+#EXTINF:1 tvg-id="medeniyyettele" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/medeniyyet-tv.png" group-title="Azərbaycan",Mədəniyyət TV
 https://str.yodacdn.net/medeniyyettele/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/mtv-azerbaycan.png" group-title="Azərbaycan",MTV Azərbaycan
 http://flussonic.izone.az/muztvaz/index.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/real-tv.png" group-title="Azərbaycan",Real TV
+#EXTINF:1 tvg-id="real" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/real-tv.png" group-title="Azərbaycan",Real TV
 http://flussonic.izone.az/realtv/index.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/space-tv.png" group-title="Azərbaycan",Space TV
+#EXTINF:1 tvg-id="space" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/space-tv.png" group-title="Azərbaycan",Space TV
 http://flussonic.izone.az/spacetv/index.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/tmb-tv.png" group-title="Azərbaycan",TMB TV
+#EXTINF:1 tvg-id="tmbtr" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/tmb-tv.png" group-title="Azərbaycan",TMB TV
 https://str.yodacdn.net/tmbtr/tracks-v1a1/mono.ts.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/xezer-tv.png" group-title="Azərbaycan",Xəzər TV
+#EXTINF:1 tvg-id="xazartv" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/xezer-tv.png" group-title="Azərbaycan",Xəzər TV
 http://flussonic.izone.az/xezertv/index.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/ayaz-tv.png" group-title="Azərbaycan",AYAZ TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/live-tv.png" group-title="Azərbaycan",Live TV
 https://tv.mobyservice.ru/livetv/index.m3u8
-#EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/ntv.png" group-title="Azərbaycan",Naxçıvan TV
+#EXTINF:1 tvg-id="ntv" tvg-logo="https://jedikedy.github.io/tivimate/logos/az/ntv.png" group-title="Azərbaycan",Naxçıvan TV
 https://str.yodacdn.net/ntv/index.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/showplus-tv.png" group-title="Azərbaycan",Show Plus TV
 https://rtmp.showplus.tv/hls/myshow.m3u8
