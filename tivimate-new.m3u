@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=https://jedikedy.github.io/az-epg/epg.xml,https://jedikedy.github.io/az-epg/epg_tr.xml
+#EXTM3U url-tvg=https://jedikedy.github.io/az-epg/epg.xml, https://jedikedy.github.io/az-epg/epg_tr.xml
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/arb-tv.png" group-title="Azərbaycan",ARB
 http://flussonic.izone.az/arb/index.m3u8
 #EXTINF:1 tvg-logo="https://jedikedy.github.io/tivimate/logos/az/arb-24.png" group-title="Azərbaycan",ARB 24
@@ -66,19 +66,19 @@ http://flussonic.izone.az/tv8/index.m3u8
 http://flussonic.izone.az/tv8int/index.m3u8
 #EXTINF:1 tvg-id="TV85.tr" tvg-logo="https://jedikedy.github.io/tivimate/logos/tr/tv8-5.png" tvg-name="TV 8.5" group-title="Türkiye",TV 8.5 HD
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
-#EXTINF:1 tvg-id="BEYAZTV.tr" group-title="Türkiye" tvg-logo="https://m.beyaztv.com.tr/images/logo.png", Beyaz TV
+#EXTINF:1 tvg-id="BEYAZTV.tr" group-title="Türkiye" tvg-logo="https://jedikedy.github.io/tivimate/logos/tr/beyaz.png", Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:1 tvg-id="KANAL7.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/pxpLpnH.png", KANAL 7
+#EXTINF:1 tvg-id="KANAL7.tr" group-title="Türkiye" tvg-logo="https://jedikedy.github.io/tivimate/logos/tr/kanal-7.png", KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:1 tvg-id="TV2.tr" group-title="Türkiye" tvg-logo="https://jedikedy.github.io/tivimate/logos/tr/tv2.png", Teve 2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2.m3u8
 #EXTINF:1 tvg-id="" group-title="Türkiye" tvg-logo="https://jedikedy.github.io/tivimate/logos/tr/showmax.png", Show MAX
 http://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
-#EXTINF:1 tvg-id="360.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/eXKohZ5.png", 360 TV
+#EXTINF:1 tvg-id="360.tr" group-title="Türkiye" tvg-logo="https://jedikedy.github.io/tivimate/logos/tr/360-tv.png", 360 TV
 http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:1 tvg-id="TV4.tr" group-title="Türkiye" tvg-logo="https://www.turkmedya.com.tr/assets/img/source/jpg/tv4.jpg?v=1114", TV4
 http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:1 tvg-id="DMAX.tr" group-title="Türkiye" tvg-logo="https://i.imgur.com/WXj8YcR.png", DMAX
+#EXTINF:1 tvg-id="DMAX.tr" group-title="Türkiye" tvg-logo="https://jedikedy.github.io/tivimate/logos/tr/dmax.png", DMAX
 http://flussonic.izone.az/ntvsport/index.m3u8
 #EXTINF:1 tvg-id="TLC.tr" group-title="Türkiye" tvg-logo="https://jedikedy.github.io/tivimate/logos/tr/tlc-tr.png", TLC
 http://flussonic.izone.az/tlcturk/index.m3u8
@@ -88,7 +88,7 @@ http://flussonic.izone.az/trtbelgesel/index.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:1 tvg-id="TRTWorld.tr" group-title="Türkiye" tvg-logo="https://jedikedy.github.io/tivimate/logos/tr/trt-world.png", TRT World
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-#EXTINF:1 tvg-id="Euro.D.tr" group-title="Türkiye" tvg-logo="https://eurod.kanald.com.tr/assets/img/logo.v5.png", Euro D
+#EXTINF:1 tvg-id="Euro.D.tr" group-title="Türkiye" tvg-logo="https://jedikedy.github.io/tivimate/logos/tr/euro-d.png", Euro D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:1 tvg-id="" group-title="Türkiye" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png", KANAL 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
