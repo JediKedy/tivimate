@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/power-fm.png" group-title="Radio",Power FM
+https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/power-turk-fm.png" group-title="Radio",Power Türk FM
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/baku-retro-fm.png" group-title="Radio",Baku Retro FM (93.3 FM)
+https://stream.bakuradioalliance.az/retrofm
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/baku-hit-fm.png" group-title="Radio",Baku Hit FM (97.7 FM)
+https://stream.bakuradioalliance.az/hitfm
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/enerji-fm.png" group-title="Radio",Radio Enerji (101.1 FM)
+https://icecast.livetv.az/antennfm
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/avto-fm.png" group-title="Radio",Avto FM (107.7 FM)
+http://5.191.241.101:8000/avtofm
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/media-fm.png" group-title="Radio",Media FM (105.5 FM)
+https://icecast.livetv.az/mediafm
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/xezer-fm.png" group-title="Radio",Xəzər FM (103 FM)
+https://s40.myradiostream.com/22546/listen.mp3
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/radio-tmb.png" group-title="Radio",TMB Radio (100.5 FM)
+https://s39.myradiostream.com/:5458/listen.mp3
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/asan-radio.png" group-title="Radio",ASAN Radio (100 FM)
+http://94.20.74.206:4448/stream1
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/90-fm.png" group-title="Radio",İctimai Radio (90 FM)
+https://stream.itv.az/rtmp:/radio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://jedikedy.github.io/tivimate/logos/radio/araz-fm.png" group-title="Radio",Araz FM (103.3 FM)
+https://s14.myradiostream.com/30454/listen.mp3
